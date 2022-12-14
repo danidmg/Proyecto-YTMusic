@@ -1,89 +1,90 @@
-artista,colaboracion,repetidos
-Bizarrap,Duki,3
-Bizarrap,Tiago PZK,1
-Bizarrap,Residente,1
-Bizarrap,Villano Antillano,1
-Bizarrap,Nicki Nicole,1
-Bizarrap,Trueno,2
-Bizarrap,Duki,3
-Bizarrap,Cazzu,1
-Bizarrap,Morad,1
-Bizarrap,Trueno,2
-Bizarrap,Ysy A,1
-Bizarrap,Chucky73,1
-Bizarrap,Bhavi,1
-Bizarrap,John C,1
-Bizarrap,Seven Kayne,1
-Bizarrap,Duki,3
-Quevedo,Bizarrap,2
-Quevedo,Bizarrap,2
-Quevedo,Mora,2
-Quevedo,Polima Westcoast,1
-Quevedo,Ovy On The Drums,1
-Quevedo,Mora,2
-L-Gante,Bizarrap,1
-Nicky Jam,Bizarrap,1
-Snow Tha Product,Bizarrap,1
-Ptazeta,Bizarrap,1
-Nathy Peluso,Bizarrap,1
-Eladio Carrion,Bizarrap,1
-Alemán,Bizarrap,1
-Dani Ribba,Bizarrap,1
-Zaramay,Bizarrap,1
-Anuel AA,Bizarrap,1
-Anuel AA,Foreign Teck,1
-Anuel AA,Chris Jedi,1
-Anuel AA,Gaby Music,1
-Hot Plug Beats,Frijo,1
-Hot Plug Beats,Bizarrap,1
-Kiddo Toto,Bizarrap,1
-Farruko,Omar Montes,1
-Rauw Alejandro,Baby Rasta,1
-Rauw Alejandro,Lyanno,1
-Rauw Alejandro,Brray,1
-Aitana,Sangiovanni,1
-Shakira,Ozuna,2
-Shakira,Rauw Alejandro,1
-Shakira,Ozuna,2
-Melendi,India Martínez,1
-Belinda,Ana Mena,1
-KAROL G,Maldy,1
-KAROL G,Ovy On The Drums,1
-MVSIS,Anuel AA,1
-Abraham Mateo,Ana Mena,1
-Emilia,Ptazeta,1
-Emilia,Aitana,1
-Sergio Ramos,Niña Pastori,1
-Sergio Ramos,RedOne,1
-Bad Bunny,Arcangel,1
-Jairo deRemache,Farruquito,1
-Jairo deRemache,Omar Montes,1
-Galvan Real,María Artés Lamorena,1
-Myke Towers,Daddy Yankee,1
-Myke Towers,Tiago PZK,1
-India Martínez,Andy Rivera,1
-Trueno,JID,1
-C. Tangana,Omar Montes,1
-JC Reyes,Pablo Chill-E,1
-JC Reyes,Ecko,1
-Selena Gomez,Rema,1
-Cano,JC Reyes,1
-Cano,El Jhota,1
-Cano,Los del Control,1
-ROSALÍA,Romeo Santos,1
-Paulo Londra,LIT killah,1
-RVFV,Duki,1
-Chris Lebron,Romeo Santos,1
-Wiso Rivera,Cruz Cafuné,1
-Wiso Rivera,Juseph,1
-Lola Indigo,Maria Becerra,1
-David Guetta,Bebe Rexha,1
-Subelo Neo,Rauw Alejandro,1
-Darell,Omar Montes,1
-Sebastián Yatra,Pablo Alborán,1
-Estopa,Beret,1
-Manuel Turizo,Piso 21,1
-Mora,Feid,1
-Jhayco,Feid,1
-Jhayco,Sech,1
-Oliver Tree,Robin Schulz,1
+artista,colaboracion,duracion,explicito,fecha_publicacion
+Bizarrap,Duki,232,False,2022-11-16
+Quevedo,Bizarrap,204,False,2022-07-06
+Bizarrap,Tiago PZK,167,False,2021-12-28
+L-Gante,Bizarrap,195,False,2021-03-10
+Nicky Jam,Bizarrap,160,False,2021-06-30
+Bizarrap,Residente,520,False,2022-03-03
+Bizarrap,Villano Antillano,188,False,2022-06-08
+Snow Tha Product,Bizarrap,184,False,2021-04-28
+Ptazeta,Bizarrap,167,False,2021-10-06
+Nathy Peluso,Bizarrap,176,False,2020-11-27
+Bizarrap,Nicki Nicole,146,False,2019-08-13
+Eladio Carrion,Bizarrap,172,False,2021-06-09
+Bizarrap,Trueno,200,False,2019-06-27
+Alemán,Bizarrap,177,False,2019-09-12
+Bizarrap,Duki,177,False,2021-04-27
+Bizarrap,Cazzu,151,False,2020-08-05
+dani,Bizarrap,178,False,2020-03-04
+Bizarrap,Morad,179,False,2021-12-08
+Zaramay,Bizarrap,230,False,2020-07-01
+Anuel AA,Bizarrap,202,False,2021-11-03
+Bizarrap,Trueno,162,False,2019-10-03
+Bizarrap,Ysy A,157,False,2021-01-27
+Bizarrap,Chucky73,146,False,2021-08-25
+Hot Plug Beats,Frijo,131,False,2019-07-19
+Hot Plug Beats,Bizarrap,131,False,2019-07-19
+Kiddo Toto,Bizarrap,166,False,2019-08-01
+Bizarrap,Bhavi,149,False,2022-05-26
+Bizarrap,John C,139,False,2019-11-20
+Bizarrap,Seven Kayne,143,False,2020-09-02
+Arcangel,Bad Bunny,256,False,2022-11-30
+Farruko,Omar Montes,213,False,2022-11-24
+Quevedo,Bizarrap,204,False,2022-07-06
+Bizarrap,Duki,232,False,2022-11-16
+Quevedo,Bad Gyal,199,False,2022-12-01
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24
+Aitana,Sangiovanni,163,False,2022-06-02
+Shakira,Ozuna,185,False,2022-10-19
+Melendi,India Martínez,247,False,2022-09-01
+Belinda,Ana Mena,188,False,2022-06-16
+Anuel AA,Bryant Myers,251,False,2022-12-01
+Quevedo,Ovy On The Drums,193,False,2022-07-21
+Abraham Mateo,Ana Mena,224,False,2022-05-12
+KAROL G,Maldy,222,False,2022-08-25
+KAROL G,Ovy On The Drums,216,False,2022-11-13
+Ptazeta,Emilia,229,False,2022-07-21
+Ptazeta,Aitana,229,False,2022-07-21
+Sergio Ramos,Niña Pastori,234,False,2016-06-10
+Sergio Ramos,RedOne,234,False,2016-06-10
+Shakira,Rauw Alejandro,196,False,2022-04-21
+Arcangel,Duki,207,False,2022-12-01
+Arcangel,Bizarrap,207,False,2022-12-01
+Jairo deRemache,Farruquito,232,False,2022-06-23
+Jairo deRemache,Omar Montes,232,False,2022-06-23
+Quevedo,Mora,200,False,2022-11-03
+Rauw Alejandro,Lyanno,207,False,2022-07-25
+Rauw Alejandro,Brray,207,False,2022-07-25
+India Martínez,Andy Rivera,252,False,2022-11-17
+Quevedo,Mora,275,False,2022-11-24
+Quevedo,Polima Westcoast,275,False,2022-11-24
+Anuel AA,MVSIS,200,False,2022-11-23
+Selena Gomez,Rema,240,False,2022-09-07
+Galvan Real,María Artés Lamorena,217,False,2022-11-21
+C. Tangana,Omar Montes,200,False,2022-10-06
+JC Reyes,Pablo Chill-E,370,False,2022-10-07
+JC Reyes,Ecko,370,False,2022-10-07
+Zion & Lennox,Feid,229,False,2022-12-01
+Anuel AA,Foreign Teck,183,False,2022-10-28
+Arcangel,Myke Towers,196,False,2022-12-01
+ROSALÍA,Romeo Santos,266,False,2022-09-02
+Kidd Keo,TALE$,158,False,2022-11-04
+Eladio Carrion,Arcangel,215,False,2022-12-01
+David Guetta,Bebe Rexha,178,False,2022-09-20
+RVFV,Duki,188,False,2022-09-08
+Cano,El Jhota,183,False,2022-08-19
+Cano,Los del Control,183,False,2022-08-19
+Wiso Rivera,Cruz Cafuné,253,False,2022-09-01
+Wiso Rivera,Juseph,253,False,2022-09-01
+Subelo Neo,Rauw Alejandro,187,False,2022-11-10
+Lola Indigo,Maria Becerra,177,False,2022-08-25
+Shakira,Ozuna,167,False,2022-10-29
+RM,조유진,289,False,2022-12-01
+Feid,DJ Premier,182,False,2022-12-01
+Anuel AA,Chris Jedi,221,False,2022-11-08
+Anuel AA,Gaby Music,221,False,2022-11-08
+Arcangel,YOVNGCHIMI,185,False,2022-12-02
+Kiddo,Pepe : Vizio,235,False,2022-07-14
+Kiddo,Delaossa,235,False,2022-07-14
+Beret,Estopa,220,False,2022-09-01
+Sebastián Yatra,Pablo Alborán,216,False,2022-07-21
