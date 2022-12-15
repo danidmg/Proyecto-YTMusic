@@ -1,90 +1,520 @@
-artista,colaboracion,duracion,explicito,fecha_publicacion,visitas
-Bizarrap,Duki,232,False,2022-11-16,46778268
-Quevedo,Bizarrap,204,False,2022-07-06,389726779
-Bizarrap,Tiago PZK,167,False,2021-12-28,165243419
-L-Gante,Bizarrap,195,False,2021-03-10,301567726
-Nicky Jam,Bizarrap,160,False,2021-06-30,149247653
-Bizarrap,Residente,520,False,2022-03-03,133071803
-Bizarrap,Villano Antillano,188,False,2022-06-08,157589879
-Snow Tha Product,Bizarrap,184,False,2021-04-28,204826151
-Ptazeta,Bizarrap,167,False,2021-10-06,95776463
-Nathy Peluso,Bizarrap,176,False,2020-11-27,348291205
-Bizarrap,Nicki Nicole,146,False,2019-08-13,193819910
-Eladio Carrion,Bizarrap,172,False,2021-06-09,157423304
-Bizarrap,Trueno,200,False,2019-06-27,232063585
-Alemán,Bizarrap,177,False,2019-09-12,204403954
-Bizarrap,Duki,177,False,2021-04-27,70536432
-Bizarrap,Cazzu,151,False,2020-08-05,139353025
-dani,Bizarrap,178,False,2020-03-04,180381930
-Bizarrap,Morad,179,False,2021-12-08,64811311
-Zaramay,Bizarrap,230,False,2020-07-01,149758120
-Anuel AA,Bizarrap,202,False,2021-11-03,56961834
-Bizarrap,Trueno,162,False,2019-10-03,131405729
-Bizarrap,Ysy A,157,False,2021-01-27,75574795
-Bizarrap,Chucky73,146,False,2021-08-25,44434345
-Hot Plug Beats,Frijo,131,False,2019-07-19,98109084
-Hot Plug Beats,Bizarrap,131,False,2019-07-19,98109084
-Kiddo Toto,Bizarrap,166,False,2019-08-01,77617812
-Bizarrap,Bhavi,149,False,2022-05-26,12600675
-Bizarrap,John C,139,False,2019-11-20,69598482
-Bizarrap,Seven Kayne,143,False,2020-09-02,40804436
-Arcangel,Bad Bunny,256,False,2022-11-30,23938785
-Farruko,Omar Montes,213,False,2022-11-24,4489155
-Quevedo,Bizarrap,204,False,2022-07-06,389726779
-Bizarrap,Duki,232,False,2022-11-16,46778268
-Quevedo,Bad Gyal,199,False,2022-12-01,1526683
-Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70081868
-Aitana,Sangiovanni,163,False,2022-06-02,24096499
-Shakira,Ozuna,185,False,2022-10-19,136087494
-Melendi,India Martínez,247,False,2022-09-01,12630076
-Belinda,Ana Mena,188,False,2022-06-16,26042227
-Anuel AA,Bryant Myers,251,False,2022-12-01,6525382
-Quevedo,Ovy On The Drums,193,False,2022-07-21,28123894
-Abraham Mateo,Ana Mena,224,False,2022-05-12,17862077
-KAROL G,Maldy,222,False,2022-08-25,220709355
-KAROL G,Ovy On The Drums,216,False,2022-11-13,53738776
-Ptazeta,Emilia,229,False,2022-07-21,27009366
-Ptazeta,Aitana,229,False,2022-07-21,27009366
-Sergio Ramos,Niña Pastori,234,False,2016-06-10,62021660
-Sergio Ramos,RedOne,234,False,2016-06-10,62021660
-Shakira,Rauw Alejandro,196,False,2022-04-21,422894534
-Arcangel,Duki,207,False,2022-12-01,4255734
-Arcangel,Bizarrap,207,False,2022-12-01,4255734
-Jairo deRemache,Farruquito,232,False,2022-06-23,22015678
-Jairo deRemache,Omar Montes,232,False,2022-06-23,22015678
-Quevedo,Mora,200,False,2022-11-03,6295646
-Rauw Alejandro,Lyanno,207,False,2022-07-25,80418538
-Rauw Alejandro,Brray,207,False,2022-07-25,80418538
-India Martínez,Andy Rivera,252,False,2022-11-17,1776741
-Quevedo,Mora,275,False,2022-11-24,5280562
-Quevedo,Polima Westcoast,275,False,2022-11-24,5280562
-Anuel AA,MVSIS,200,False,2022-11-23,13897182
-Selena Gomez,Rema,240,False,2022-09-07,161604881
-Galvan Real,María Artés Lamorena,217,False,2022-11-21,1104636
-C. Tangana,Omar Montes,200,False,2022-10-06,3889679
-JC Reyes,Pablo Chill-E,370,False,2022-10-07,24924314
-JC Reyes,Ecko,370,False,2022-10-07,24924314
-Zion & Lennox,Feid,229,False,2022-12-01,3051859
-Anuel AA,Foreign Teck,183,False,2022-10-28,13110223
-Arcangel,Myke Towers,196,False,2022-12-01,2653513
-ROSALÍA,Romeo Santos,266,False,2022-09-02,23465788
-Kidd Keo,TALE$,158,False,2022-11-04,3050353
-Eladio Carrion,Arcangel,215,False,2022-12-01,2372688
-David Guetta,Bebe Rexha,178,False,2022-09-20,69363762
-RVFV,Duki,188,False,2022-09-08,9208758
-Cano,El Jhota,183,False,2022-08-19,6959233
-Cano,Los del Control,183,False,2022-08-19,6959233
-Wiso Rivera,Cruz Cafuné,253,False,2022-09-01,4146001
-Wiso Rivera,Juseph,253,False,2022-09-01,4146001
-Subelo Neo,Rauw Alejandro,187,False,2022-11-10,3162025
-Lola Indigo,Maria Becerra,177,False,2022-08-25,18010643
-Shakira,Ozuna,167,False,2022-10-29,16810702
-RM,조유진,289,False,2022-12-01,28508425
-Feid,DJ Premier,182,False,2022-12-01,3268785
-Anuel AA,Chris Jedi,221,False,2022-11-08,9099888
-Anuel AA,Gaby Music,221,False,2022-11-08,9099888
-Arcangel,YOVNGCHIMI,185,False,2022-12-02,2871229
-Kiddo,Pepe : Vizio,235,False,2022-07-14,4632483
-Kiddo,Delaossa,235,False,2022-07-14,4632483
-Beret,Estopa,220,False,2022-09-01,3640463
-Sebastián Yatra,Pablo Alborán,216,False,2022-07-21,19715347
+Source,Target,duracion,explicito,fecha_publicacion,visitas
+Arcangel,Bad Bunny,256,False,2022-11-30,25024917
+Farruko,Omar Montes,213,False,2022-11-24,4595207
+Quevedo,Bizarrap,204,False,2022-07-06,390422764
+Bizarrap,Duki,232,False,2022-11-16,47165711
+Quevedo,Bad Gyal,199,False,2022-12-01,1568673
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70746997
+Aitana,Sangiovanni,163,False,2022-06-02,24157988
+Shakira,Ozuna,185,False,2022-10-19,136755176
+Melendi,India Martínez,247,False,2022-09-01,12698641
+Belinda,Ana Mena,188,False,2022-06-16,26117032
+Anuel AA,Bryant Myers,251,False,2022-12-01,6696718
+Quevedo,Ovy On The Drums,193,False,2022-07-21,28233465
+Abraham Mateo,Ana Mena,224,False,2022-05-12,17913082
+KAROL G,Maldy,222,False,2022-08-25,221818331
+KAROL G,Ovy On The Drums,216,False,2022-11-13,54624454
+Emilia,Ptazeta,229,False,2022-07-21,27088823
+Emilia,Aitana,229,False,2022-07-21,27088823
+Sergio Ramos,Niña Pastori,234,False,2016-06-10,62042378
+Sergio Ramos,RedOne,234,False,2016-06-10,62042378
+Shakira,Rauw Alejandro,196,False,2022-04-21,423301288
+Arcangel,Duki,207,False,2022-12-01,4354934
+Arcangel,Bizarrap,207,False,2022-12-01,4354934
+Jairo deRemache,Farruquito,232,False,2022-06-23,22043745
+Jairo deRemache,Omar Montes,232,False,2022-06-23,22043745
+Quevedo,Mora,200,False,2022-11-03,6357926
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868545
+Rauw Alejandro,Brray,207,False,2022-07-25,80868545
+India Martínez,Andy Rivera,252,False,2022-11-17,1818073
+Quevedo,Mora,275,False,2022-11-24,5391513
+Quevedo,Polima Westcoast,275,False,2022-11-24,5391513
+Anuel AA,MVSIS,200,False,2022-11-23,14110491
+Selena Gomez,Rema,240,False,2022-09-07,163096077
+Galvan Real,María Artés Lamorena,217,False,2022-11-21,1122089
+C. Tangana,Omar Montes,200,False,2022-10-06,3907169
+JC Reyes,Pablo Chill-E,370,False,2022-10-07,25154787
+JC Reyes,Ecko,370,False,2022-10-07,25154787
+Zion & Lennox,Feid,229,False,2022-12-01,3160162
+Anuel AA,Foreign Teck,183,False,2022-10-28,13292579
+Arcangel,Myke Towers,196,False,2022-12-01,2720184
+ROSALÍA,Romeo Santos,266,False,2022-09-02,23537353
+Kidd Keo,TALE$,158,False,2022-11-04,3083516
+Eladio Carrion,Arcangel,215,False,2022-12-01,2425757
+David Guetta,Bebe Rexha,178,False,2022-09-20,69879762
+RVFV,Duki,188,False,2022-09-08,9227890
+Cano,El Jhota,183,False,2022-08-19,6978845
+Cano,Los del Control,183,False,2022-08-19,6978845
+Wiso Rivera,Cruz Cafuné,253,False,2022-09-01,4160852
+Wiso Rivera,Juseph,253,False,2022-09-01,4160852
+Subelo Neo,Rauw Alejandro,187,False,2022-11-10,3258148
+Lola Indigo,Maria Becerra,177,False,2022-08-25,18078888
+Shakira,Ozuna,167,False,2022-10-29,17082863
+RM,조유진,289,False,2022-12-01,28986326
+Feid,DJ Premier,182,False,2022-12-01,3452842
+Anuel AA,Chris Jedi,221,False,2022-11-08,9245000
+Anuel AA,Gaby Music,221,False,2022-11-08,9245000
+Arcangel,YOVNGCHIMI,185,False,2022-12-02,2991020
+Kiddo,Pepe : Vizio,235,False,2022-07-14,4646520
+Kiddo,Delaossa,235,False,2022-07-14,4646520
+Estopa,Beret,220,False,2022-09-01,3659692
+Sebastián Yatra,Pablo Alborán,216,False,2022-07-21,19773578
+Ryan Castro,SOG,184,False,2022-11-30,2509493
+KAROL G,Maldy,222,False,2022-08-25,221818331
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868545
+Rauw Alejandro,Brray,207,False,2022-07-25,80868545
+De La Ghetto,Anuel AA,296,False,2022-12-08,6697198
+De La Ghetto,Jowell & Randy,296,False,2022-12-08,6697198
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70746997
+KAROL G,Ovy On The Drums,216,False,2022-11-13,54624454
+Cris Mj,Tiago PZK,203,False,2022-10-27,9677961
+Jhayco,Feid,231,False,2022-10-20,15095860
+Jhayco,Sech,231,False,2022-10-20,15095860
+Yandel,Tiago PZK,173,False,2022-12-01,3221921
+Zion & Lennox,Feid,229,False,2022-12-01,3160162
+Myke Towers,Daddy Yankee,194,False,2022-11-24,4507900
+Lenny Tavárez,Beéle,197,False,2022-11-17,6674446
+Lenny Tavárez,Brytiago,197,False,2022-11-17,6674446
+Mora,De La Ghetto,186,False,2022-11-03,2250741
+Natti Natasha,Maria Becerra,206,False,2022-09-29,19674956
+Blessd,De La Ghetto,260,False,2022-10-13,15461303
+Blessd,Darell,260,False,2022-10-13,15461303
+Rauw Alejandro,Nio Garcia,222,False,2022-11-10,8755787
+Rauw Alejandro,Lenny Tavárez,222,False,2022-11-10,8755787
+Fran C.,Pablo Pesadilla,206,False,2022-08-18,41700854
+Fran C.,Polima Westcoast,206,False,2022-08-18,41700854
+Fran C.,Nickoog Clk,206,False,2022-08-18,41700854
+Anuel AA,Chris Jedi,221,False,2022-11-08,9245000
+Anuel AA,Gaby Music,221,False,2022-11-08,9245000
+Yandel,Arcangel,203,False,2022-10-20,9603676
+Wisin & Yandel,Rauw Alejandro,223,False,2022-10-25,5696888
+De La Ghetto,Pailita,329,False,2022-06-16,125118114
+De La Ghetto,Polima Westcoast,329,False,2022-06-16,125118114
+De La Ghetto,Feid,329,False,2022-06-16,125118114
+Standly,Stars Music Chile,196,False,2022-07-22,76916573
+Standly,Cris Mj,196,False,2022-07-22,76916573
+Maluma,Chencho Corleone,239,False,2022-06-09,47485448
+Jhayco,Myke Towers,218,False,2022-08-18,12427949
+Anuel AA,David Guetta,155,False,2022-12-09,1695478
+Arcangel,Bad Bunny,256,False,2022-11-30,25024917
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70746997
+KAROL G,Ovy On The Drums,216,False,2022-11-13,54624454
+Quevedo,Bizarrap,204,False,2022-07-06,390422764
+Shakira,Ozuna,185,False,2022-10-19,136755176
+Quevedo,Mora,275,False,2022-11-24,5391513
+Quevedo,Polima Westcoast,275,False,2022-11-24,5391513
+Rauw Alejandro,Nio Garcia,222,False,2022-11-10,8755787
+Rauw Alejandro,Lenny Tavárez,222,False,2022-11-10,8755787
+Myke Towers,Daddy Yankee,194,False,2022-11-24,4507900
+Bizarrap,Duki,232,False,2022-11-16,47165711
+The Rudeboyz,Maluma,214,False,2022-10-20,6085805
+The Rudeboyz,Adam Levine,214,False,2022-10-20,6085805
+Jhayco,Feid,231,False,2022-10-20,15095954
+Jhayco,Sech,231,False,2022-10-20,15095954
+Manuel Turizo,Maria Becerra,202,False,2022-10-27,11736329
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868545
+Rauw Alejandro,Brray,207,False,2022-07-25,80868545
+Fran C.,Pablo Pesadilla,206,False,2022-08-18,41700854
+Fran C.,Polima Westcoast,206,False,2022-08-18,41700854
+Fran C.,Nickoog Clk,206,False,2022-08-18,41700854
+Blessd,De La Ghetto,260,False,2022-10-13,15461303
+Blessd,Darell,260,False,2022-10-13,15461303
+Ryan Castro,SOG,133,False,2022-10-05,7914033
+KAROL G,Maldy,222,False,2022-08-25,221818331
+Jhayco,Myke Towers,218,False,2022-08-18,12427949
+ROSALÍA,Romeo Santos,266,False,2022-09-02,23537353
+Trueno,Tiago PZK,180,False,2022-10-06,13541617
+Standly,Stars Music Chile,196,False,2022-07-22,76916573
+Standly,Cris Mj,196,False,2022-07-22,76916573
+Los Legendarios,Wisin,239,False,2022-08-31,17856970
+Los Legendarios,Natti Natasha,239,False,2022-08-31,17856970
+Anuel AA,Chris Jedi,256,False,2022-05-19,170161641
+Anuel AA,Ñengo Flow,256,False,2022-05-19,170161641
+Anuel AA,Chencho Corleone,256,False,2022-05-19,170161641
+Reik,Sech,193,False,2022-08-25,10595171
+Ozuna,Tiago PZK,217,False,2022-06-02,60022914
+Maluma,Chencho Corleone,239,False,2022-06-09,47485448
+Shakira,Rauw Alejandro,196,False,2022-04-21,423301288
+Wisin & Yandel,Natti Natasha,234,False,2022-11-15,1513056
+Wisin & Yandel,Daddy Yankee,234,False,2022-11-15,1513056
+KAROL G,Maldy,222,False,2022-08-25,221818331
+Natti Natasha,Ozuna,274,False,2017-08-18,2434087744
+Bad Bunny,Jhay Cortez,214,False,2020-10-29,1223287973
+Becky G,Natti Natasha,217,False,2018-04-20,2074185659
+Bad Bunny,J Balvin,306,False,2019-05-16,1952725677
+Bad Bunny,Jhay Cortez,306,False,2019-05-16,1952725677
+KAROL G,Nicki Minaj,204,False,2019-11-07,1390788725
+Rauw Alejandro,Chencho Corleone,232,False,2021-12-09,356123816
+J Balvin,Maria Becerra,217,False,2021-05-27,576712918
+KAROL G,Anuel AA,258,False,2019-01-14,1337328791
+Myke Towers,DJ Nelson,218,False,2020-07-17,765513653
+Myke Towers,Jay Wheeler,218,False,2020-07-17,765513653
+Dimelo Flow,Arcangel,233,False,2019-12-12,847259210
+Anuel AA,Tainy,292,False,2019-08-22,996568870
+Anuel AA,Ozuna,292,False,2019-08-22,996568870
+Crissin,Natan & Shander,399,False,2021-06-17,386101940
+Crissin,Totoy El Frio,399,False,2021-06-17,386101940
+Rauw Alejandro,Mr. NaisGai,213,False,2021-02-13,466748850
+Lenny Tavárez,Blessd,241,False,2021-10-27,277655905
+Lenny Tavárez,Justin Quiles,241,False,2021-10-27,277655905
+Anuel AA,Chris Jedi,256,False,2022-05-19,170161641
+Anuel AA,Ñengo Flow,256,False,2022-05-19,170161641
+Anuel AA,Chencho Corleone,256,False,2022-05-19,170161641
+Bad Bunny,Tainy,252,False,2019-05-31,1000278269
+Ozuna,Karol G,262,False,2020-08-17,613769277
+Ozuna,Myke Towers,262,False,2020-08-17,613769277
+Lunay,Bad Bunny,266,False,2019-05-10,869118179
+Lunay,Daddy Yankee,266,False,2019-05-10,869118179
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868545
+Rauw Alejandro,Brray,207,False,2022-07-25,80868545
+Becky G,Paulo Londra,280,False,2018-08-02,836943087
+J Balvin,Sech,250,False,2020-09-03,381845117
+J Balvin,Daddy Yankee,250,False,2020-09-03,381845117
+Rauw Alejandro,Chencho Corleone,208,False,2019-03-14,622320161
+Nicky Jam,Ozuna,204,False,2019-03-21,611026755
+Farruko,Rauw Alejandro,198,False,2019-08-28,563394088
+Wisin & Yandel,Daddy Yankee,276,False,2019-06-27,453471296
+Jhayco,Anuel AA,245,False,2021-11-18,154418884
+Jhayco,Myke Towers,245,False,2021-11-18,154418884
+Nio Garcia,Bad Bunny,270,False,2021-06-24,308258994
+Nio Garcia,J Balvin,270,False,2021-06-24,308258994
+Brytiago,Darell,188,False,2018-05-10,534724253
+Farruko,Natti Natasha,261,False,2019-09-06,420754381
+Farruko,Justin Quiles,261,False,2019-09-06,420754381
+Anuel AA,Rauw Alejandro,229,False,2020-10-22,417675413
+Bad Bunny,Jowell & Randy,296,False,2020-02-28,352309384
+Bad Bunny,Ñengo Flow,296,False,2020-02-28,352309384
+Ozuna,Tiago PZK,217,False,2022-06-02,60022914
+Anuel AA,Daddy Yankee,225,False,2018-11-08,519235055
+KAROL G,Feid,145,False,2021-12-21,109366124
+Bad Bunny,J Balvin,225,False,2019-06-27,362324793
+Dalex,Sech,274,False,2021-08-12,138198373
+Dalex,"Rich Music, Ltd",274,False,2021-08-12,138198373
+Maluma,Chencho Corleone,239,False,2022-06-09,47485448
+Nio Garcia,Myke Towers,348,False,2020-09-04,242940232
+Nio Garcia,Anuel AA,348,False,2020-09-04,242940232
+Becky G,KAROL G,275,False,2022-04-15,63217931
+Bad Bunny,Jhay Cortez,227,False,2020-05-10,231725396
+Anuel AA,Sech,288,False,2019-07-25,340397737
+Anuel AA,Ozuna,288,False,2019-07-25,340397737
+Robi,Alejo,237,False,2022-03-17,58795435
+Robi,Feid,237,False,2022-03-17,58795435
+Jhayco,Mora,196,False,2021-04-14,136480835
+Nio Garcia,Lenny Tavárez,377,False,2019-07-18,310233929
+Nio Garcia,Rauw Alejandro,377,False,2019-07-18,310233929
+Wisin,Nicky Jam,235,False,2017-07-28,444250064
+Jhayco,Sech,220,False,2021-07-08,92359333
+Farruko,Sean Paul,223,False,2014-05-27,520023141
+Feid,Justin Quiles,233,False,2020-02-24,161532138
+De La Ghetto,Daddy Yankee,236,False,2017-09-14,273766211
+De La Ghetto,Ozuna,236,False,2017-09-14,273766211
+Maluma,Blessd,226,False,2021-05-12,74842670
+Los Legendarios,Jhayco,361,False,2021-06-15,159625766
+Los Legendarios,Wisin,361,False,2021-06-15,159625766
+Los Legendarios,Myke Towers,361,False,2021-06-15,159625766
+Nicky Jam,Dalex,287,False,2019-05-09,193995726
+Nicky Jam,Justin Quiles,287,False,2019-05-09,193995726
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70746997
+Ryan Castro,SOG,184,False,2022-11-30,2509541
+Myke Towers,Daddy Yankee,194,False,2022-11-24,4507900
+Jhayco,Feid,231,False,2022-10-20,15095954
+Jhayco,Sech,231,False,2022-10-20,15095954
+KAROL G,Maldy,222,False,2022-08-25,221818331
+De La Ghetto,Anuel AA,296,False,2022-12-08,6697198
+De La Ghetto,Jowell & Randy,296,False,2022-12-08,6697198
+Rauw Alejandro,Chencho Corleone,232,False,2021-12-09,356123816
+Crissin,Natan & Shander,399,False,2021-06-17,386101940
+Crissin,Totoy El Frio,399,False,2021-06-17,386101940
+Aventura,Bad Bunny,232,False,2021-08-02,393130001
+Aventura,Romeo Santos,232,False,2021-08-02,393130001
+Anuel AA,Chris Jedi,256,False,2022-05-19,170161641
+Anuel AA,Ñengo Flow,256,False,2022-05-19,170161641
+Anuel AA,Chencho Corleone,256,False,2022-05-19,170161641
+Ryan Castro,Feid,234,False,2021-11-12,291524155
+Lenny Tavárez,Blessd,241,False,2021-10-27,277655905
+Lenny Tavárez,Justin Quiles,241,False,2021-10-27,277655905
+Fran C.,Pablo Pesadilla,206,False,2022-08-18,41700854
+Fran C.,Polima Westcoast,206,False,2022-08-18,41700854
+Fran C.,Nickoog Clk,206,False,2022-08-18,41700854
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868545
+Rauw Alejandro,Brray,207,False,2022-07-25,80868545
+Lunay,Lenny Tavárez,349,False,2021-10-29,138012836
+Lunay,Boza,349,False,2021-10-29,138012836
+Lunay,Juhn,349,False,2021-10-29,138012836
+Ozuna,Tiago PZK,217,False,2022-06-02,60022914
+Nio Garcia,Bad Bunny,270,False,2021-06-24,308258994
+Nio Garcia,J Balvin,270,False,2021-06-24,308258994
+Natti Natasha,Maria Becerra,206,False,2022-09-29,19674956
+Maluma,Chencho Corleone,239,False,2022-06-09,47485448
+Mora,Feid,205,False,2022-03-31,87894237
+Anuel AA,Chris Jedi,221,False,2022-11-08,9245000
+Anuel AA,Gaby Music,221,False,2022-11-08,9245000
+Blessd,De La Ghetto,260,False,2022-10-13,15461311
+Blessd,Darell,260,False,2022-10-13,15461311
+Bad Bunny,Daddy Yankee,195,False,2022-04-06,84393128
+Yandel,Tiago PZK,173,False,2022-12-01,3221921
+Anuel AA,Randy Nota Loca,244,False,2022-07-14,27727869
+Anuel AA,Zion,244,False,2022-07-14,27727869
+De La Ghetto,Rauw Alejandro,202,False,2022-06-03,31570791
+Yandel,Arcangel,203,False,2022-10-20,9603684
+Rauw Alejandro,Álvaro Díaz,203,False,2021-10-21,49633230
+Myke Towers,Tiago PZK,225,False,2022-07-14,35730468
+Wisin & Yandel,Natti Natasha,234,False,2022-11-15,1513056
+Wisin & Yandel,Daddy Yankee,234,False,2022-11-15,1513056
+Young Miko,Lunay,235,False,2022-09-08,2068961
+Young Miko,Chris Jedi,235,False,2022-09-08,2068961
+SOG,Ryan Castro,218,True,2022-09-29,2467156
+SOG,Blessd,218,True,2022-09-29,2467156
+Robi,Alejo,237,False,2022-03-17,58795435
+Robi,Feid,237,False,2022-03-17,58795435
+Jhayco,Myke Towers,218,False,2022-08-18,12427949
+Young Miko,Vf7,193,False,2022-10-13,615120
+KAROL G,Maldy,222,False,2022-08-25,221818331
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70746997
+Anuel AA,Chris Jedi,256,False,2022-05-19,170161641
+Anuel AA,Ñengo Flow,256,False,2022-05-19,170161641
+Anuel AA,Chencho Corleone,256,False,2022-05-19,170161641
+Ryan Castro,Feid,234,False,2021-11-12,291524155
+Lenny Tavárez,Blessd,241,False,2021-10-27,277655905
+Lenny Tavárez,Justin Quiles,241,False,2021-10-27,277655905
+Rauw Alejandro,Chencho Corleone,232,False,2021-12-09,356123816
+Jhayco,Anuel AA,245,False,2021-11-18,154418884
+Jhayco,Myke Towers,245,False,2021-11-18,154418884
+Tainy,Bad Bunny,251,False,2021-10-05,197116101
+Tainy,Julieta Venegas,251,False,2021-10-05,197116101
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868545
+Rauw Alejandro,Brray,207,False,2022-07-25,80868545
+De La Ghetto,Pailita,329,False,2022-06-16,125118114
+De La Ghetto,Polima Westcoast,329,False,2022-06-16,125118114
+De La Ghetto,Feid,329,False,2022-06-16,125118114
+Blessd,Ryan Castro,168,False,2022-01-27,118466998
+Tiago PZK,Trueno,213,False,2021-10-21,150504870
+Lunay,Lenny Tavárez,349,False,2021-10-29,138012836
+Lunay,Boza,349,False,2021-10-29,138012836
+Lunay,Juhn,349,False,2021-10-29,138012836
+Mora,Sech,175,False,2022-03-31,78020410
+Fran C.,Pablo Pesadilla,206,False,2022-08-18,41700895
+Fran C.,Polima Westcoast,206,False,2022-08-18,41700895
+Fran C.,Nickoog Clk,206,False,2022-08-18,41700895
+KAROL G,Feid,145,False,2021-12-21,109366124
+Ovy On The Drums,Myke Towers,240,False,2022-03-18,92809081
+Ovy On The Drums,Blessd,240,False,2022-03-18,92809081
+Ozuna,Tiago PZK,217,False,2022-06-02,60022914
+Jhayco,Anuel AA,266,False,2021-09-02,121363432
+Maluma,Chencho Corleone,239,False,2022-06-09,47485448
+Mora,Feid,205,False,2022-03-31,87894237
+Becky G,KAROL G,275,False,2022-04-15,63217931
+Bad Bunny,Daddy Yankee,195,False,2022-04-06,84393128
+Myke Towers,Tiago PZK,225,False,2022-07-14,35730468
+Rauw Alejandro,Álvaro Díaz,203,False,2021-10-21,49633230
+Ryan Castro,Blessd,167,False,2022-01-21,57818456
+J Balvin,Sech,228,False,2021-09-30,75056411
+J Balvin,Daddy Yankee,228,False,2021-09-30,75056411
+Robi,Alejo,237,False,2022-03-17,58795435
+Robi,Feid,237,False,2022-03-17,58795435
+Wisin & Yandel,Natti Natasha,234,False,2022-11-15,1513056
+Wisin & Yandel,Daddy Yankee,234,False,2022-11-15,1513056
+Bad Bunny,Jhay Cortez,214,False,2020-10-29,1223287973
+Natti Natasha,Becky G,219,False,2021-04-20,619549516
+KAROL G,Maldy,222,False,2022-08-25,221818331
+KAROL G,Anuel AA,302,False,2019-07-19,1958879539
+KAROL G,Daddy Yankee,302,False,2019-07-19,1958879539
+Lunay,Bad Bunny,266,False,2019-05-10,869118179
+Lunay,Daddy Yankee,266,False,2019-05-10,869118179
+Nio Garcia,Bad Bunny,270,False,2021-06-24,308258994
+Nio Garcia,J Balvin,270,False,2021-06-24,308258994
+Mora,Bad Bunny,274,False,2021-07-08,325601912
+Mora,Sech,274,False,2021-07-08,325601912
+Nicky Jam,J Balvin,192,False,2018-03-01,2121528215
+Farruko,Nicky Jam,240,False,2018-12-21,374332845
+Farruko,Amenazzy,240,False,2018-12-21,374332845
+Bad Bunny,Jowell & Randy,296,False,2020-02-28,352309384
+Bad Bunny,Ñengo Flow,296,False,2020-02-28,352309384
+Farruko,Don Omar,197,False,2019-04-19,100857019
+Sean Paul,J Balvin,236,False,2019-03-15,254440484
+DJ Luian,Mambo Kingz,291,False,2018-11-05,509312712
+Anuel AA,Brytiago,211,False,2019-02-14,146364527
+Farruko,Myke Towers,248,False,2019-02-25,438138294
+Anuel AA,Daddy Yankee,225,False,2018-11-08,519235055
+Manuel Turizo,Ozuna,239,False,2018-06-28,1055557390
+Nicky Jam,Ozuna,204,False,2019-03-21,611026822
+Anuel AA,Darell,338,False,2018-10-31,523374371
+Anuel AA,Ozuna,338,False,2018-10-31,523374371
+Anuel AA,Daddy Yankee,338,False,2018-10-31,523374371
+Becky G,Paulo Londra,280,False,2018-08-02,836943087
+Wisin,Nicky Jam,235,False,2017-07-28,444250064
+Marc Anthony,Will Smith,281,False,2018-09-27,197358634
+Marc Anthony,Bad Bunny,281,False,2018-09-27,197358634
+J Balvin,Zion & Lennox,274,False,2018-06-28,745925175
+DJ Luian,Nicky Jam,303,False,2019-03-28,483427424
+DJ Luian,Anuel AA,303,False,2019-03-28,483427424
+DJ Luian,Darell,303,False,2019-03-28,483427424
+KAROL G,Anuel AA,258,False,2019-01-14,1337328791
+Becky G,Natti Natasha,217,False,2018-04-20,2074185896
+Natti Natasha,Thalía,221,False,2018-06-01,1405358895
+Nicky Jam,Anuel AA,263,False,2019-05-16,121278134
+Nicky Jam,J Balvin,263,False,2019-05-16,121278134
+Bad Bunny,J Balvin,306,False,2019-05-16,1952725677
+Bad Bunny,Jhay Cortez,306,False,2019-05-16,1952725677
+Piso 21,Micro TDH,254,False,2018-12-13,496613490
+DJ Snake,J Balvin,190,False,2019-06-13,442818693
+DJ Snake,Tyga,190,False,2019-06-13,442818693
+Wisin & Yandel,Daddy Yankee,276,False,2019-06-27,453471372
+Nicky Jam,Dalex,296,False,2019-06-07,315527459
+Nicky Jam,Justin Quiles,296,False,2019-06-07,315527459
+Nicky Jam,Sech,206,False,2019-08-01,142861762
+Farruko,Rvssian,169,False,2018-09-06,247371122
+Farruko,J Balvin,169,False,2018-09-06,247371122
+ChocQuibTown,Becky G,229,False,2019-06-27,63768721
+Bad Bunny,Farruko,298,False,2019-09-25,117936138
+Nicky Jam,Mau y Ricky,223,False,2019-10-10,66571181
+Lenny Tavárez,Justin Quiles,180,False,2020-02-06,84507964
+Manuel Turizo,Feid,232,False,2020-02-13,77766443
+Bad Bunny,Natti Natasha,234,False,2018-01-11,470424239
+Bad Bunny,ROSALÍA,218,False,2021-02-14,564803560
+Sech,Ozuna,206,False,2019-09-25,201289024
+Bad Bunny,Tainy,252,False,2019-05-31,1000278269
+Manuel Turizo,Arcangel,190,False,2020-02-07,46188756
+Anuel AA,Natti Natasha,274,False,2020-03-05,382375106
+Anuel AA,Rauw Alejandro,274,False,2020-03-05,382375106
+Farruko,Rauw Alejandro,198,False,2019-08-28,563394088
+Bad Bunny,Sech,248,False,2020-02-13,318632304
+Dimelo Flow,Lenny Tavárez,222,False,2019-09-20,198871071
+Dimelo Flow,Wisin,222,False,2019-09-20,198871071
+Dimelo Flow,Dalex,222,False,2019-09-20,198871071
+Bad Bunny,J Balvin,225,False,2019-06-27,362324793
+Maluma,Chencho Corleone,239,False,2022-06-09,47485448
+Anuel AA,Chris Jedi,221,False,2022-11-08,9245000
+Anuel AA,Gaby Music,221,False,2022-11-08,9245000
+KAROL G,Ovy On The Drums,216,False,2022-11-13,54624454
+Shakira,Ozuna,185,False,2022-10-19,136755176
+Emilia,Ptazeta,229,False,2022-07-21,27088823
+Emilia,Aitana,229,False,2022-07-21,27088823
+KAROL G,Maldy,222,False,2022-08-25,221818331
+Quevedo,Bizarrap,204,False,2022-07-06,390422764
+Trumpmoney,andres yuma,132,False,2022-12-01,23562
+Trumpmoney,Vadi,132,False,2022-12-01,23562
+Almighty,Luar La L,235,False,2022-12-08,652811
+El Alfa,Black Eyed Peas,241,False,2022-10-28,37366254
+El Alfa,Anitta,241,False,2022-10-28,37366254
+Quevedo,De La Ghetto,228,False,2022-03-31,74239247
+Quevedo,Duki,228,False,2022-03-31,74239247
+Belinda,Ana Mena,188,False,2022-06-16,26117032
+Blessd,Ryan Castro,168,False,2022-01-27,118466998
+Reik,Maria Becerra,190,False,2021-11-24,69124317
+Tiago PZK,Trueno,213,False,2021-10-21,150504870
+KAROL G,Feid,145,False,2021-12-21,109366124
+Shakira,Rauw Alejandro,196,False,2022-04-21,423301288
+Rauw Alejandro,Baby Rasta,214,False,2022-09-24,70746997
+Abhir Hathi,EL IMA,420,False,2022-01-13,104211632
+Jhayco,Mora,241,False,2022-06-15,27673526
+ROSALÍA,Romeo Santos,266,False,2022-09-02,23537475
+Rauw Alejandro,Lyanno,207,False,2022-07-25,80868804
+Rauw Alejandro,Brray,207,False,2022-07-25,80868804
+Prince Royce,Maria Becerra,254,False,2022-03-03,66411263
+Ryan Castro,Feid,234,False,2021-11-12,291524155
+JC Reyes,Pablo Chill-E,370,False,2022-10-07,25154787
+JC Reyes,Ecko,370,False,2022-10-07,25154787
+TINI,Becky G,192,False,2022-07-06,64181287
+TINI,Anitta,192,False,2022-07-06,64181287
+Ryan Castro,Ñejo,208,False,2022-05-12,56817131
+Ryan Castro,Andy Rivera,208,False,2022-05-12,56817131
+Ozuna,Tokischa,208,False,2022-08-10,60419786
+Rei,Quevedo,193,False,2022-06-01,60398598
+Rusherking,Dread Mar I,170,False,2022-09-29,22082598
+Anuel AA,Chris Jedi,256,False,2022-05-19,170161641
+Anuel AA,Ñengo Flow,256,False,2022-05-19,170161641
+Anuel AA,Chencho Corleone,256,False,2022-05-19,170161641
+Tiago PZK,LIT killah,289,False,2022-01-05,290912055
+Tiago PZK,Maria Becerra,289,False,2022-01-05,290912055
+Tiago PZK,Nicki Nicole,289,False,2022-01-05,290912055
+Rauw Alejandro,Chencho Corleone,232,False,2021-12-09,356123816
+Mora,Feid,202,False,2022-05-19,38820507
+Jhayco,Anuel AA,266,False,2021-09-02,121363432
+Tokischa,Anuel AA,288,False,2022-08-19,32908623
+Tokischa,Ñengo Flow,288,False,2022-08-19,32908623
+Lenny Tavárez,Blessd,241,False,2021-10-27,277655905
+Lenny Tavárez,Justin Quiles,241,False,2021-10-27,277655905
+Bad Bunny,ROSALÍA,218,False,2021-02-14,564803560
+Bad Bunny,Jhay Cortez,214,False,2020-10-29,1223287973
+Ozuna,Karol G,262,False,2020-08-17,613769277
+Ozuna,Myke Towers,262,False,2020-08-17,613769277
+KAROL G,Nicki Minaj,204,False,2019-11-07,1390788725
+Ozuna,Camilo,259,False,2020-09-03,512931090
+Bad Bunny,Anuel AA,269,False,2020-05-28,348136634
+Myke Towers,Juhn,233,False,2020-12-10,686476734
+Lenny Tavárez,Dalex,197,False,2020-03-26,310811928
+Lenny Tavárez,Rauw Alejandro,197,False,2020-03-26,310811928
+Anuel AA,Rauw Alejandro,229,False,2020-10-22,417675413
+Bad Bunny,Dua Lipa,250,False,2020-07-23,330558374
+Bad Bunny,Tainy,250,False,2020-07-23,330558374
+Bad Bunny,J Balvin,250,False,2020-07-23,330558374
+Travis Scott,ROSALÍA,175,False,2020-05-28,218174299
+Pedro Capó,Camilo,211,False,2019-08-08,746299891
+Shakira,Anuel AA,193,False,2020-03-06,223835095
+Farruko,El Alfa,291,False,2020-12-18,93737388
+Farruko,Myke Towers,291,False,2020-12-18,93737388
+Farruko,Chencho Corleone,291,False,2020-12-18,93737388
+Bad Bunny,Daddy Yankee,207,False,2020-02-28,300242085
+Karol G,Anuel AA,203,False,2020-04-01,189466932
+Darell,El Alfa,216,False,2020-03-11,170397464
+Darell,Noriel,216,False,2020-03-11,170397464
+Manuel Turizo,Myke Towers,237,False,2020-10-08,183347775
+Manuel Turizo,Rauw Alejandro,237,False,2020-10-08,183347775
+Maluma,Jennifer Lopez,537,False,2020-09-24,208180920
+Wisin,Ozuna,254,False,2020-07-23,98502133
+Ozuna,Daddy Yankee,243,False,2020-09-23,148083862
+Sky Rompiendo,Myke Towers,183,False,2020-04-17,129364692
+Sky Rompiendo,Rauw Alejandro,183,False,2020-04-17,129364692
+Bad Bunny,YAVIAH,266,False,2020-03-13,152344294
+Luis Fonsi,Rauw Alejandro,192,False,2021-02-18,39287372
+J Balvin,Jowell & Randy,216,False,2020-07-17,88932266
+Mora,Bad Bunny,280,False,2020-09-20,195940277
+Chyno Miranda,Chino & Nacho,211,False,2020-03-12,71316988
+Chyno Miranda,Nacho,211,False,2020-03-12,71316988
+CNCO,Natti Natasha,211,False,2020-04-02,81375433
+KAROL G,Simone & Simaria,185,False,2020-04-28,96327347
+Rvssian,Anuel AA,184,False,2020-04-16,63368453
+Rvssian,Juice WRLD,184,False,2020-04-16,63368453
+Farruko,Anuel AA,246,False,2020-06-10,61462109
+Farruko,Zumbi,246,False,2020-06-10,61462109
+J Balvin,Ozuna,239,False,2020-12-18,255711285
+J Balvin,Chencho Corleone,239,False,2020-12-18,255711285
+Lenny Tavárez,Dalex,282,False,2020-04-30,56503117
+Lenny Tavárez,Brytiago,282,False,2020-04-30,56503117
+Arcangel,Sech,196,False,2020-10-01,67476360
+Reik,Morat,218,False,2020-06-11,89315687
+Yandel,Rauw Alejandro,173,False,2020-07-30,56327297
+J Balvin,Sech,292,False,2020-10-31,59439951
+Nio Garcia,Flow La Movie,205,False,2020-11-05,91513644
+Nio Garcia,Casper Magico,205,False,2020-11-05,91513644
+Yandel,Anuel AA,227,False,2020-08-05,50143360
+Anuel AA,Ozuna,207,False,2021-01-21,53847295
+KAROL G,Anuel AA,302,False,2019-07-19,1958879539
+KAROL G,Daddy Yankee,302,False,2019-07-19,1958879539
+Bad Bunny,J Balvin,306,False,2019-05-16,1952725677
+Bad Bunny,Jhay Cortez,306,False,2019-05-16,1952725677
+J Balvin,Black Eyed Peas,219,False,2019-10-10,1014066140
+Anuel AA,Tainy,292,False,2019-08-22,996568870
+Anuel AA,Ozuna,292,False,2019-08-22,996568870
+Lunay,Bad Bunny,266,False,2019-05-10,869118179
+Lunay,Daddy Yankee,266,False,2019-05-10,869118179
+Bad Bunny,Tainy,252,False,2019-05-31,1000278269
+Dimelo Flow,Arcangel,233,False,2019-12-12,847259210
+Tainy,J Balvin,177,False,2020-07-15,871688569
+Nicky Jam,Ozuna,204,False,2019-03-21,611026822
+Farruko,Rauw Alejandro,198,False,2019-08-28,563394088
+Rauw Alejandro,Chencho Corleone,208,False,2019-03-14,622320161
+DJ Luian,Nicky Jam,303,False,2019-03-28,483427424
+DJ Luian,Anuel AA,303,False,2019-03-28,483427424
+DJ Luian,Darell,303,False,2019-03-28,483427424
+Maluma,GIMS,214,False,2019-05-10,531978641
+Ozuna,ROSALÍA,208,False,2019-08-15,478413543
+Maluma,Becky G,196,False,2019-04-18,432233132
+Evaluna Montaner,Camilo,184,False,2020-03-09,490042373
+DJ Snake,J Balvin,190,False,2019-06-13,442818826
+DJ Snake,Tyga,190,False,2019-06-13,442818826
+Farruko,KEVVO,469,False,2019-09-11,535990343
+Farruko,Chencho Corleone,469,False,2019-09-11,535990343
+Bad Bunny,J Balvin,251,False,2019-10-14,608267277
+Wisin & Yandel,Daddy Yankee,276,False,2019-06-27,453471372
