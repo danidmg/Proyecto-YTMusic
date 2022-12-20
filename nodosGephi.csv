@@ -1,237 +1,241 @@
 Id,Label,colaboracion,subscriptores,views
-0,Arcangel,"['Bad Bunny', 'Bad Bunny', 'Sech']",10.7M,"4,757,030,131 views"
-1,Farruko,"['Omar Montes', 'Rauw Alejandro', 'Natti Natasha', 'Justin Quiles', 'Sean Paul', 'Nicky Jam', 'Amenazzy', 'Don Omar', 'Myke Towers', 'Rvssian', 'J Balvin', 'Rauw Alejandro', 'Anuel AA', 'Zumbi', 'Rauw Alejandro', 'KEVVO', 'Chencho Corleone', 'Natti Natasha', 'Justin Quiles', 'Lenny Tavárez', 'Natti Natasha', 'Dalex', 'Rauw Alejandro', 'Nicky Jam', 'Amenazzy', 'Rvssian', 'J Balvin', 'Nicky Jam', 'Amenazzy']",18.3M,"8,917,081,158 views"
-2,Quevedo,"['Bizarrap', 'Ovy On The Drums', 'Myke Towers', 'Mora', 'Bad Gyal', 'Mora', 'Polima Westcoast', 'Bizarrap', 'Myke Towers', 'Mora', 'Polima Westcoast', 'Bizarrap', 'De La Ghetto', 'Duki']",1.1M,"296,360,104 views"
-3,Bizarrap,"['Duki', 'Duki']",16.6M,"5,849,808,044 views"
+0,Arcangel,"['Bad Bunny', 'Bad Bunny', 'Sech']",10.7M,"4,762,428,080 views"
+1,Farruko,"['Omar Montes', 'Rauw Alejandro', 'Natti Natasha', 'Justin Quiles', 'Myke Towers', 'Sech', 'Sean Paul', 'Nicky Jam', 'Amenazzy', 'Don Omar', 'Myke Towers', 'Rvssian', 'J Balvin', 'Rauw Alejandro', 'Anuel AA', 'Zumbi', 'Rauw Alejandro', 'KEVVO', 'Chencho Corleone', 'Natti Natasha', 'Justin Quiles', 'Lenny Tavárez', 'Natti Natasha', 'Dalex', 'Rauw Alejandro', 'Nicky Jam', 'Amenazzy', 'Rvssian', 'J Balvin', 'Nicky Jam', 'Amenazzy']",18.3M,"8,921,192,800 views"
+2,Quevedo,"['Bizarrap', 'Ovy On The Drums', 'Myke Towers', 'Mora', 'Bad Gyal', 'Mora', 'Polima Westcoast', 'Bizarrap', 'Myke Towers', 'Mora', 'Polima Westcoast', 'Bizarrap', 'De La Ghetto', 'Duki']",1.1M,"298,971,371 views"
+3,Bizarrap,"['Duki', 'Duki']",16.6M,"5,853,258,103 views"
 4,Aitana,['Sangiovanni'],2.15M,No info
-5,Belinda,"['Ana Mena', 'Ana Mena']",870K,"352,382,429 views"
-6,Melendi,['India Martínez'],4.41M,"3,767,208,185 views"
-7,Rauw Alejandro,"['Baby Rasta', 'Lyanno', 'Brray', 'Lyanno', 'Brray', 'Baby Rasta', 'Nio Garcia', 'Lenny Tavárez', 'Baby Rasta', 'Nio Garcia', 'Lenny Tavárez', 'Lyanno', 'Brray', 'Chencho Corleone', 'Mr. NaisGai', 'Lyanno', 'Brray', 'Chencho Corleone', 'Baby Rasta', 'Chencho Corleone', 'Lyanno', 'Brray', 'Álvaro Díaz', 'Baby Rasta', 'Chencho Corleone', 'Lyanno', 'Brray', 'Álvaro Díaz', 'Baby Rasta', 'Lyanno', 'Brray', 'Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone']",12.3M,"10,178,787,164 views"
-8,Anuel AA,"['Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'MVSIS', 'David Guetta', 'Bryant Myers', 'Foreign Teck', 'Chris Jedi', 'Gaby Music', 'Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'Chris Jedi', 'Gaby Music', 'Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Tainy', 'Ozuna', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Rauw Alejandro', 'Daddy Yankee', 'Sech', 'Ozuna', 'Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Chris Jedi', 'Gaby Music', 'Randy Nota Loca', 'Zion', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Brytiago', 'Daddy Yankee', 'Darell', 'Ozuna', 'Daddy Yankee', 'Natti Natasha', 'Rauw Alejandro', 'Chris Jedi', 'Gaby Music', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Rauw Alejandro', 'Rvssian', 'Juice WRLD', 'Ozuna', 'Tainy', 'Ozuna', 'Chris Jedi', 'Gaby Music', 'Tainy', 'Ozuna', 'Tainy', 'Ozuna', 'Daddy Yankee', 'Darell', 'Ozuna', 'Daddy Yankee']",23.4M,"12,692,939,530 views"
-9,Abraham Mateo,['Ana Mena'],4.63M,"1,819,667,437 views"
-10,Shakira,"['Ozuna', 'Rauw Alejandro', 'Ozuna', 'Ozuna', 'Ozuna', 'Rauw Alejandro', 'Anuel AA', 'Pedro Capó', 'Camilo', 'Maluma']",39.3M,"25,051,014,029 views"
-11,Emilia,"['Ptazeta', 'Aitana', 'Ptazeta', 'Aitana', 'Ptazeta', 'Aitana']",1.28M,"645,835,639 views"
-12,KAROL G,"['Maldy', 'Ovy On The Drums', 'Ovy On The Drums', 'Maldy', 'Ovy On The Drums', 'Maldy', 'Maldy', 'Nicki Minaj', 'Anuel AA', 'Feid', 'Maldy', 'Maldy', 'Feid', 'Maldy', 'Anuel AA', 'Daddy Yankee', 'Anuel AA', 'Ovy On The Drums', 'Maldy', 'Feid', 'Nicki Minaj', 'Simone & Simaria', 'Anuel AA', 'Daddy Yankee', 'Nicki Minaj', 'Anuel AA', 'Mariah Angeliq ', 'Feid', 'Nicki Minaj', 'Anuel AA', 'Daddy Yankee', 'Anuel AA', 'Anuel AA', 'Daddy Yankee', 'Anuel AA', 'Anuel AA']",28.7M,"15,391,322,780 views"
-13,India Martínez,['Andy Rivera'],1.01M,"709,192,360 views"
+5,Belinda,"['Ana Mena', 'Ana Mena']",870K,"352,516,078 views"
+6,Melendi,['India Martínez'],4.41M,"3,768,357,550 views"
+7,Rauw Alejandro,"['Baby Rasta', 'Lyanno', 'Brray', 'Lyanno', 'Brray', 'Baby Rasta', 'Nio Garcia', 'Lenny Tavárez', 'Baby Rasta', 'Nio Garcia', 'Lenny Tavárez', 'Lyanno', 'Brray', 'Chencho Corleone', 'Mr. NaisGai', 'Lyanno', 'Brray', 'Chencho Corleone', 'Baby Rasta', 'Chencho Corleone', 'Lyanno', 'Brray', 'Álvaro Díaz', 'Baby Rasta', 'Chencho Corleone', 'Lyanno', 'Brray', 'Álvaro Díaz', 'Baby Rasta', 'Lyanno', 'Brray', 'Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone']",12.3M,"10,185,535,959 views"
+8,Anuel AA,"['Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'MVSIS', 'David Guetta', 'Bryant Myers', 'Foreign Teck', 'Chris Jedi', 'Gaby Music', 'Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'Chris Jedi', 'Gaby Music', 'Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Tainy', 'Ozuna', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Rauw Alejandro', 'Daddy Yankee', 'Jowell & Randy', 'De La Ghetto', 'Yailin la Mas Viral', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Chris Jedi', 'Gaby Music', 'Randy Nota Loca', 'Zion', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Brytiago', 'Daddy Yankee', 'Darell', 'Ozuna', 'Daddy Yankee', 'Natti Natasha', 'Rauw Alejandro', 'Chris Jedi', 'Gaby Music', 'Chris Jedi', 'Ñengo Flow', 'Chencho Corleone', 'Rauw Alejandro', 'Rvssian', 'Juice WRLD', 'Ozuna', 'Tainy', 'Ozuna', 'Chris Jedi', 'Gaby Music', 'Tainy', 'Ozuna', 'Tainy', 'Ozuna', 'Daddy Yankee', 'Darell', 'Ozuna', 'Daddy Yankee']",23.4M,"12,701,780,470 views"
+9,Abraham Mateo,['Ana Mena'],4.63M,"1,820,025,823 views"
+10,Shakira,"['Ozuna', 'Rauw Alejandro', 'Ozuna', 'Ozuna', 'Ozuna', 'Rauw Alejandro', 'Anuel AA', 'Pedro Capó', 'Camilo', 'Maluma']",39.3M,"25,066,506,723 views"
+11,Emilia,"['Ptazeta', 'Aitana', 'Ptazeta', 'Aitana', 'Ptazeta', 'Aitana']",1.28M,"646,369,077 views"
+12,KAROL G,"['Maldy', 'Ovy On The Drums', 'Ovy On The Drums', 'Maldy', 'Ovy On The Drums', 'Maldy', 'Maldy', 'Nicki Minaj', 'Anuel AA', 'Feid', 'Maldy', 'Maldy', 'Feid', 'Maldy', 'Anuel AA', 'Daddy Yankee', 'Anuel AA', 'Ovy On The Drums', 'Maldy', 'Feid', 'Nicki Minaj', 'Simone & Simaria', 'Anuel AA', 'Daddy Yankee', 'Nicki Minaj', 'Anuel AA', 'Mariah Angeliq ', 'Feid', 'Nicki Minaj', 'Anuel AA', 'Daddy Yankee', 'Anuel AA', 'Anuel AA', 'Daddy Yankee', 'Anuel AA', 'Anuel AA']",28.8M,"15,399,667,447 views"
+13,India Martínez,['Andy Rivera'],1.01M,"709,535,493 views"
 14,Jairo deRemache,"['Farruquito', 'Omar Montes']",193,No info
-15,Rema,['Selena Gomez'],2.54M,"760,289,252 views"
-16,Jhayco,"['Mora', 'Feid', 'Sech', 'Myke Towers', 'Feid', 'Sech', 'Myke Towers', 'Myke Towers', 'Anuel AA', 'Mora', 'Sech', 'Feid', 'Sech', 'Myke Towers', 'Myke Towers', 'Anuel AA', 'Anuel AA', 'Mora', 'Anuel AA']",4.75M,"3,734,531,791 views"
-17,Sergio Ramos,"['Niña Pastori', 'RedOne']",583,"8,984 views"
-18,C. Tangana,"['Omar Montes', 'Becky G', 'Becky G']",2.23M,"1,373,657,757 views"
-19,JC Reyes,"['Pablo Chill-E', 'Ecko', 'Pablo Chill-E', 'Ecko']",17.7K,No info
+15,Selena Gomez,['Rema'],32M,"12,080,075,070 views"
+16,Jhayco,"['Mora', 'Feid', 'Sech', 'Myke Towers', 'Feid', 'Sech', 'Myke Towers', 'Myke Towers', 'Anuel AA', 'Mora', 'Feid', 'Sech', 'Myke Towers', 'Myke Towers', 'Anuel AA', 'Anuel AA', 'Mora', 'Anuel AA']",4.75M,"3,735,969,578 views"
+17,Sergio Ramos,"['Niña Pastori', 'RedOne']",589,"9,013 views"
+18,C. Tangana,"['Omar Montes', 'Becky G', 'Becky G']",2.23M,"1,374,121,111 views"
+19,JC Reyes,"['Pablo Chill-E', 'Ecko', 'Pablo Chill-E', 'Ecko']",17.8K,No info
 20,Galvan Real,['María Artés Lamorena'],418K,No info
-21,Nicki Minaj,"['Maluma', 'Myriam Fares', 'FIFA Sound']",25.1M,"9,740,024,406 views"
-22,Cano,"['El Jhota', 'Los del Control']",181K,No info
+21,Nicki Minaj,"['Maluma', 'Myriam Fares', 'FIFA Sound']",25.1M,"9,742,692,380 views"
+22,Cano,"['El Jhota', 'Los del Control']",182K,No info
 23,Kidd Keo,['TALE$'],4.69M,No info
-24,David Guetta,['Bebe Rexha'],24.8M,"16,603,503,460 views"
-25,ROSALÍA,"['Romeo Santos', 'Romeo Santos', 'Romeo Santos']",9.97M,"4,683,595,718 views"
-26,Lola Indigo,['Maria Becerra'],1.24M,"687,102,269 views"
-27,Beret,['Estopa'],4.56M,"1,451,507,398 views"
-28,RVFV,['Duki'],981K,No info
+24,David Guetta,['Bebe Rexha'],24.8M,"16,609,162,390 views"
+25,ROSALÍA,"['Romeo Santos', 'Romeo Santos', 'Romeo Santos']",9.98M,"4,686,563,677 views"
+26,Lola Indigo,['Maria Becerra'],1.24M,"687,474,002 views"
+27,Beret,['Estopa'],4.56M,"1,452,724,510 views"
+28,RVFV,['Duki'],982K,No info
 29,Wiso Rivera,"['Cruz Cafuné', 'Juseph']",175,No info
-30,Oliver Tree,['Robin Schulz'],4.34M,"1,256,321,438 views"
-31,Myke Towers,"['Daddy Yankee', 'Daddy Yankee', 'Daddy Yankee', 'DJ Nelson', 'Jay Wheeler', 'Daddy Yankee', 'Tiago PZK', 'Tiago PZK', 'Juhn', 'DJ Nelson', 'Jay Wheeler']",9.58M,No info
-32,Kiddo,"['Pepe : Vizio', 'Delaossa']",102,No info
-33,Subelo Neo,['Rauw Alejandro'],13,No info
-34,Mora,"['Feid', 'De La Ghetto', 'Feid', 'Sech', 'Feid', 'Bad Bunny', 'Sech', 'Feid', 'Bad Bunny', 'Bad Bunny', 'Sech']",1.8M,"1,413,600,500 views"
-35,Israel Fernández,['Omar Montes'],37.1K,No info
-36,Manuel Turizo,"['Piso 21', 'Maria Becerra', 'Ozuna', 'Feid', 'Arcangel', 'Myke Towers', 'Rauw Alejandro', 'Ozuna', 'Mau y Ricky', 'Camilo', 'Anuel AA', 'Ozuna', 'Ozuna', 'Mau y Ricky', 'Camilo']",9.09M,No info
-37,Wisin,"['Jowell & Randy', 'Jowell & Randy', 'Nicky Jam', 'Jowell & Randy', 'Nicky Jam', 'Ozuna']",7.41M,"6,130,364,005 views"
-38,Ryan Castro,"['SOG', 'SOG', 'SOG', 'Feid', 'Feid', 'Blessd', 'Feid']",2.34M,No info
-39,Cris Mj,['Tiago PZK'],1.53M,No info
-40,Standly,"['Stars Music Chile', 'Cris Mj', 'Stars Music Chile', 'Cris Mj', 'Stars Music Chile', 'Cris Mj', 'Stars Music Chile', 'Cris Mj']",1.09M,No info
+30,Alain Pérez,"['Original Elias', 'Big Lois']",1,No info
+31,Oliver Tree,['Robin Schulz'],4.35M,"1,262,404,366 views"
+32,Myke Towers,"['Daddy Yankee', 'Daddy Yankee', 'Daddy Yankee', 'DJ Nelson', 'Jay Wheeler', 'Daddy Yankee', 'Tiago PZK', 'Tiago PZK', 'Juhn']",9.58M,No info
+33,Kiddo,"['Pepe : Vizio', 'Delaossa']",102,No info
+34,Subelo Neo,['Rauw Alejandro'],13,No info
+35,Mora,"['Feid', 'De La Ghetto', 'Feid', 'Sech', 'Feid', 'Bad Bunny', 'Sech', 'Feid', 'Bad Bunny', 'Bad Bunny', 'Sech']",1.8M,"1,415,850,085 views"
+36,Israel Fernández,['Omar Montes'],37.1K,No info
+37,Manuel Turizo,"['Piso 21', 'Maria Becerra', 'Ozuna', 'Feid', 'Arcangel', 'Myke Towers', 'Rauw Alejandro', 'Ozuna', 'Mau y Ricky', 'Camilo', 'Anuel AA', 'Ozuna', 'Ozuna', 'Mau y Ricky', 'Camilo']",9.09M,No info
+38,Wisin,"['Jowell & Randy', 'Jowell & Randy', 'Nicky Jam', 'Jowell & Randy', 'Nicky Jam', 'Ozuna']",7.41M,"6,131,538,963 views"
+39,Ryan Castro,"['SOG', 'SOG', 'SOG', 'Feid', 'Feid', 'Blessd', 'Feid']",2.34M,No info
+40,Cris Mj,['Tiago PZK'],1.53M,No info
 41,Xyron,"['Nicky Jam', 'Rapeton Approved']",1.23K,No info
-42,Natti Natasha,"['Maria Becerra', 'Ozuna', 'Maria Becerra', 'Becky G', 'Thalía', 'Maria Becerra', 'Ozuna', 'Thalía', 'Thalía', 'Daddy Yankee', 'Pitbull']",12M,"7,577,828,884 views"
-43,Yandel,"['Tiago PZK', 'Arcangel', 'Arcangel', 'Tiago PZK', 'Rauw Alejandro', 'Anuel AA']",5.44M,"3,798,981,231 views"
-44,Pablo Chill-E,"['Cris Mj', 'Harry Nach']",991K,No info
-45,Zion & Lennox,['Feid'],3.39M,"2,802,344,916 views"
-46,Blessd,"['De La Ghetto', 'Darell', 'De La Ghetto', 'Darell', 'De La Ghetto', 'Darell', 'Ryan Castro', 'Ryan Castro']",2M,"1,417,212,662 views"
+42,Natti Natasha,"['Maria Becerra', 'Ozuna', 'Maria Becerra', 'Becky G', 'Thalía', 'Maria Becerra', 'Ozuna', 'Thalía', 'Thalía', 'Daddy Yankee', 'Pitbull']",12M,"7,579,721,503 views"
+43,Yandel,"['Tiago PZK', 'Arcangel', 'Arcangel', 'Tiago PZK', 'Rauw Alejandro', 'Anuel AA']",5.44M,"3,799,866,936 views"
+44,Tom Fomt,"['Aqua VS', 'Harry Nach']",6,No info
+45,Zion & Lennox,['Feid'],3.39M,"2,803,722,273 views"
+46,Blessd,"['De La Ghetto', 'Darell', 'De La Ghetto', 'Darell', 'De La Ghetto', 'Darell', 'Ryan Castro', 'Ryan Castro']",2M,"1,420,501,838 views"
 47,Fran C.,"['Pablo Pesadilla', 'Polima Westcoast', 'Nickoog Clk', 'Pablo Pesadilla', 'Polima Westcoast', 'Nickoog Clk', 'Pablo Pesadilla', 'Polima Westcoast', 'Nickoog Clk']",17.6K,No info
-48,Wisin & Yandel,"['Rauw Alejandro', 'Daddy Yankee', 'Natti Natasha', 'Daddy Yankee', 'Natti Natasha', 'Daddy Yankee', 'Daddy Yankee', 'Daddy Yankee']",7.02M,"5,838,829,397 views"
-49,De La Ghetto,"['Pailita', 'Polima Westcoast', 'Feid', 'Daddy Yankee', 'Ozuna', 'Rauw Alejandro', 'Pailita', 'Polima Westcoast', 'Feid', 'J Balvin']",2.89M,"1,205,037,834 views"
-50,Maluma,"['Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone', 'Blessd', 'Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone', 'Jennifer Lopez', 'GIMS', 'Becky G', 'Farina', 'J Balvin', 'Wisin', 'De La Ghetto', 'GIMS']",28.9M,"20,255,933,637 views"
-51,DJ Premier,['Feid'],163K,"12,705,984 views"
-52,The Rudeboyz,"['Maluma', 'Adam Levine']",90.2K,No info
-53,Trueno,['Tiago PZK'],5.86M,"1,376,011,149 views"
-54,Ozuna,"['Tiago PZK', 'Karol G', 'Myke Towers', 'Tiago PZK', 'Tiago PZK', 'Tiago PZK', 'Sech', 'Tokischa', 'Karol G', 'Myke Towers', 'Camilo', 'Daddy Yankee', 'ROSALÍA']",35.7M,"22,037,213,588 views"
-55,Bad Bunny,"['Jhay Cortez', 'J Balvin', 'Jhay Cortez', 'Tainy', 'Jowell & Randy', 'Ñengo Flow', 'J Balvin', 'Jhay Cortez', 'Daddy Yankee', 'Daddy Yankee', 'Jhay Cortez', 'Jowell & Randy', 'Ñengo Flow', 'J Balvin', 'Jhay Cortez', 'Farruko', 'Natti Natasha', 'ROSALÍA', 'Tainy', 'Sech', 'J Balvin', 'ROSALÍA', 'Jhay Cortez', 'Anuel AA', 'Dua Lipa', 'Tainy', 'J Balvin', 'Daddy Yankee', 'YAVIAH', 'J Balvin', 'Jhay Cortez', 'Tainy', 'J Balvin', 'J Balvin', 'Jhay Cortez', 'Jhay Cortez', 'Anuel AA', 'Jowell & Randy', 'Ñengo Flow', 'Tainy', 'ROSALÍA', 'Bomba Estéreo', 'J Balvin', 'Farruko', 'J Balvin', 'Jhay Cortez', 'Jhay Cortez', 'Jowell & Randy', 'Ñengo Flow', 'Jennifer Lopez', 'Wisin', 'Wisin & Yandel']",44.8M,"27,499,680,353 views"
-56,Becky G,"['Natti Natasha', 'Paulo Londra', 'KAROL G', 'KAROL G', 'Paulo Londra', 'Natti Natasha', 'TINI', 'Anitta', 'KAROL G', 'Natti Natasha', 'Natti Natasha']",20.7M,"9,948,885,530 views"
-57,Maria Becerra,"['J Balvin', 'Reik']",3.83M,"1,828,319,014 views"
-58,Dimelo Flow,"['Arcangel', 'Lenny Tavárez', 'Wisin', 'Dalex', 'Arcangel', 'Arcangel']",664K,"357,743,270 views"
-59,Crissin,"['Natan & Shander', 'Totoy El Frio', 'Natan & Shander', 'Totoy El Frio']",15.4K,No info
-60,Lenny Tavárez,"['Blessd', 'Justin Quiles', 'Blessd', 'Justin Quiles', 'Blessd', 'Justin Quiles', 'Justin Quiles', 'Blessd', 'Justin Quiles', 'Dalex', 'Rauw Alejandro', 'Dalex', 'Brytiago']",3.07M,"845,382,191 views"
-61,Lunay,"['Bad Bunny', 'Daddy Yankee', 'Lenny Tavárez', 'Boza', 'Juhn', 'Lenny Tavárez', 'Boza', 'Juhn', 'Bad Bunny', 'Daddy Yankee', 'Bad Bunny', 'Daddy Yankee', 'Bad Bunny', 'Daddy Yankee', 'Anuel AA', 'Ozuna', 'Bad Bunny', 'Daddy Yankee', 'Bad Bunny', 'Daddy Yankee']",5.12M,"2,336,214,563 views"
-62,J Balvin,"['Sech', 'Daddy Yankee', 'Sech', 'Daddy Yankee', 'Zion & Lennox', 'Jowell & Randy', 'Ozuna', 'Chencho Corleone', 'Sech', 'Black Eyed Peas', 'Zion & Lennox', 'Zion & Lennox']",33.8M,"22,113,531,860 views"
-63,Nicky Jam,"['Ozuna', 'Dalex', 'Justin Quiles', 'J Balvin', 'Ozuna', 'Anuel AA', 'J Balvin', 'Dalex', 'Justin Quiles', 'Sech', 'Mau y Ricky', 'Ozuna', 'J Balvin', 'Enrique Iglesias', 'Ozuna', 'Rauw Alejandro', 'Alex Sensation', 'J Balvin', 'Ozuna']",23.3M,"15,356,942,730 views"
-64,Nio Garcia,"['Bad Bunny', 'J Balvin', 'Anuel AA', 'Myke Towers', 'Lenny Tavárez', 'Rauw Alejandro', 'Bad Bunny', 'J Balvin', 'Bad Bunny', 'J Balvin', 'Flow La Movie', 'Casper Magico', 'Bad Bunny', 'J Balvin']",1.32M,No info
-65,Brytiago,['Darell'],5.27M,"3,136,203,846 views"
-66,Dalex,"['Sech', 'Rich Music, Ltd']",6.12M,"3,972,034,571 views"
-67,Robi,"['Alejo', 'Feid', 'Alejo', 'Feid', 'Alejo', 'Feid']",32.3K,No info
-68,Feid,['Justin Quiles'],3.67M,"3,146,131,966 views"
-69,Los Legendarios,"['Jhayco', 'Wisin', 'Myke Towers']",54.3K,"162,663,319 views"
-70,Aventura,"['Bad Bunny', 'Romeo Santos', 'Bad Bunny', 'Romeo Santos']",6.11M,"6,613,289,257 views"
-71,Young Miko,['Vf7'],6.65K,No info
-72,SOG,"['Ryan Castro', 'Blessd']",2.92K,No info
-73,Tainy,"['Bad Bunny', 'Julieta Venegas', 'J Balvin', 'J Balvin']",2.16M,"1,763,443,812 views"
-74,Tiago PZK,"['Trueno', 'Trueno', 'LIT killah', 'Maria Becerra', 'Nicki Nicole', 'Lit Killah']",3.95M,"1,458,530,878 views"
-75,Ovy On The Drums,"['Myke Towers', 'Blessd']",1.08M,"643,288,035 views"
-76,Sean Paul,"['J Balvin', 'J Balvin', 'J Balvin']",4.35M,"2,765,794,967 views"
-77,DJ Luian,"['Mambo Kingz', 'Nicky Jam', 'Anuel AA', 'Darell', 'Nicky Jam', 'Anuel AA', 'Darell', 'Mambo Kingz', 'Ozuna', 'Mambo Kingz']",524K,No info
-78,Marc Anthony,"['Will Smith', 'Bad Bunny']",6.66M,"6,061,731,208 views"
-79,Piso 21,['Micro TDH'],7.56M,"6,634,294,146 views"
-80,DJ Snake,"['J Balvin', 'Tyga', 'J Balvin', 'Tyga']",23.8M,"7,964,211,366 views"
-81,ChocQuibTown,"['Becky G', 'Farruko', 'Zion & Lennox']",1.15M,"789,628,230 views"
-82,Trumpmoney,"['andres yuma', 'Vadi']",111K,No info
-83,Almighty,['Luar La L'],3.1M,No info
-84,Randy,"['De La Ghetto', 'Cazzu']",884K,No info
-85,Abhir Hathi,['EL IMA'],15.2K,No info
-86,Prince Royce,['Maria Becerra'],10M,"5,856,145,025 views"
-87,Ñejo,"['Ryan Castro', 'Andy Rivera']",2.51M,No info
-88,Rei,"['Quevedo', 'BANDIDO', 'Duki']",872K,No info
-89,Rusherking,['Dread Mar I'],2.11M,No info
-90,Tokischa,"['Anuel AA', 'Ñengo Flow']",1.43M,"291,203,827 views"
-91,Zhamira Zambrano,['Jay Wheeler'],3.29K,No info
-92,Travis Scott,['ROSALÍA'],16.3M,"7,492,199,383 views"
-93,Pedro Capó,['Camilo'],6.77M,"3,375,403,919 views"
-94,Karol G,['Anuel AA'],28.7M,"15,391,322,780 views"
-95,El Alfa,"['Darell', 'Noriel']",8.56M,"4,139,484,442 views"
-96,Sky Rompiendo,"['Myke Towers', 'Rauw Alejandro']",359K,"178,364,323 views"
-97,Luis Fonsi,"['Rauw Alejandro', 'Demi Lovato', 'Nicky Jam', 'Sebastián Yatra', 'Ozuna']",31.2M,"14,736,470,380 views"
-98,Chino & Nacho,"['Chyno Miranda', 'Nacho']",4.8M,"4,165,774,958 views"
-99,CNCO,['Natti Natasha'],11.9M,"7,030,430,338 views"
-100,Reik,"['Morat', 'Maluma', 'Maluma']",9.58M,"7,790,216,609 views"
-101,Evaluna Montaner,['Camilo'],3.72M,"625,275,474 views"
-102,Carlos Vives,['Sebastián Yatra'],5.71M,"5,143,172,072 views"
+48,Wisin & Yandel,"['Rauw Alejandro', 'Daddy Yankee', 'Natti Natasha', 'Daddy Yankee', 'Natti Natasha', 'Daddy Yankee', 'Daddy Yankee', 'Daddy Yankee']",7.02M,"5,841,005,658 views"
+49,De La Ghetto,"['Pailita', 'Polima Westcoast', 'Feid', 'Rauw Alejandro', 'Pailita', 'Polima Westcoast', 'Feid', 'J Balvin']",2.89M,"1,205,503,311 views"
+50,Standly,"['Stars Music Chile', 'Cris Mj']",1.09M,No info
+51,Maluma,"['Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone', 'Blessd', 'Chencho Corleone', 'Chencho Corleone', 'Chencho Corleone', 'Jennifer Lopez', 'GIMS', 'Becky G', 'Farina', 'J Balvin', 'Wisin', 'De La Ghetto', 'GIMS']",28.9M,"20,260,536,856 views"
+52,DJ Premier,['Feid'],163K,"12,716,100 views"
+53,The Rudeboyz,"['Maluma', 'Adam Levine']",90.2K,No info
+54,Trueno,['Tiago PZK'],5.86M,"1,377,008,952 views"
+55,Ozuna,"['Tiago PZK', 'Karol G', 'Myke Towers', 'Tiago PZK', 'Sech', 'Tiago PZK', 'Tiago PZK', 'Sech', 'Tokischa', 'Karol G', 'Myke Towers', 'Camilo', 'Daddy Yankee', 'ROSALÍA']",35.7M,"22,043,425,111 views"
+56,Bad Bunny,"['Jhay Cortez', 'J Balvin', 'Jhay Cortez', 'Tainy', 'Jowell & Randy', 'Ñengo Flow', 'J Balvin', 'Jhay Cortez', 'Daddy Yankee', 'Daddy Yankee', 'Jhay Cortez', 'Jowell & Randy', 'Ñengo Flow', 'J Balvin', 'Jhay Cortez', 'Farruko', 'Natti Natasha', 'ROSALÍA', 'Tainy', 'Sech', 'J Balvin', 'ROSALÍA', 'Jhay Cortez', 'Anuel AA', 'Dua Lipa', 'Tainy', 'J Balvin', 'Daddy Yankee', 'YAVIAH', 'J Balvin', 'Jhay Cortez', 'Tainy', 'J Balvin', 'J Balvin', 'Jhay Cortez', 'Jhay Cortez', 'Anuel AA', 'Jowell & Randy', 'Ñengo Flow', 'Tainy', 'ROSALÍA', 'Bomba Estéreo', 'J Balvin', 'Farruko', 'J Balvin', 'Jhay Cortez', 'Jhay Cortez', 'Jowell & Randy', 'Ñengo Flow', 'Jennifer Lopez', 'Wisin & Yandel', 'Wisin']",44.8M,"27,513,591,741 views"
+57,Becky G,"['Natti Natasha', 'Paulo Londra', 'KAROL G', 'KAROL G', 'Paulo Londra', 'Natti Natasha', 'TINI', 'Anitta', 'Natti Natasha', 'Natti Natasha']",20.7M,"9,951,362,457 views"
+58,Maria Becerra,"['J Balvin', 'Reik']",3.84M,"1,830,727,787 views"
+59,Dimelo Flow,"['Arcangel', 'Lenny Tavárez', 'Wisin', 'Dalex', 'Arcangel', 'Arcangel']",664K,"357,832,911 views"
+60,Crissin,"['Natan & Shander', 'Totoy El Frio', 'Natan & Shander', 'Totoy El Frio']",15.4K,No info
+61,Lenny Tavárez,"['Blessd', 'Justin Quiles', 'Blessd', 'Justin Quiles', 'Blessd', 'Justin Quiles', 'Justin Quiles', 'Blessd', 'Justin Quiles', 'Dalex', 'Rauw Alejandro', 'Dalex', 'Brytiago']",3.07M,"845,629,632 views"
+62,Lunay,"['Bad Bunny', 'Daddy Yankee', 'Lenny Tavárez', 'Boza', 'Juhn', 'Lenny Tavárez', 'Boza', 'Juhn', 'Bad Bunny', 'Daddy Yankee', 'Bad Bunny', 'Daddy Yankee', 'Bad Bunny', 'Daddy Yankee', 'Anuel AA', 'Ozuna', 'Bad Bunny', 'Daddy Yankee', 'Bad Bunny', 'Daddy Yankee']",5.12M,"2,336,843,605 views"
+63,J Balvin,"['Sech', 'Daddy Yankee', 'Sech', 'Daddy Yankee', 'Zion & Lennox', 'Jowell & Randy', 'Ozuna', 'Chencho Corleone', 'Sech', 'Black Eyed Peas', 'Zion & Lennox', 'Zion & Lennox']",33.8M,"22,117,619,688 views"
+64,Nicky Jam,"['Ozuna', 'Rauw Alejandro', 'J Balvin', 'Ozuna', 'Anuel AA', 'J Balvin', 'Dalex', 'Justin Quiles', 'Sech', 'Mau y Ricky', 'Ozuna', 'J Balvin', 'Enrique Iglesias', 'Luis Fonsi', 'Sebastián Yatra', 'Ozuna', 'Rauw Alejandro', 'Alex Sensation', 'J Balvin', 'Ozuna']",23.3M,"15,359,094,714 views"
+65,Nio Garcia,"['Bad Bunny', 'J Balvin', 'Anuel AA', 'Myke Towers', 'Lenny Tavárez', 'Rauw Alejandro', 'Bad Bunny', 'J Balvin', 'Bad Bunny', 'J Balvin', 'Flow La Movie', 'Casper Magico', 'Bad Bunny', 'J Balvin']",1.32M,No info
+66,Brytiago,['Darell'],5.27M,"3,137,229,243 views"
+67,Dalex,"['Sech', 'Rich Music, Ltd']",6.12M,"3,973,877,283 views"
+68,Robi,"['Alejo', 'Feid', 'Alejo', 'Feid', 'Alejo', 'Feid']",32.3K,No info
+69,Feid,['Justin Quiles'],3.67M,"3,152,907,614 views"
+70,Los Legendarios,"['Jhayco', 'Wisin', 'Myke Towers']",54.3K,"162,780,496 views"
+71,Aventura,"['Bad Bunny', 'Romeo Santos', 'Bad Bunny', 'Romeo Santos']",6.12M,"6,619,519,564 views"
+72,Young Miko,['Vf7'],6.67K,No info
+73,SOG,"['Ryan Castro', 'Blessd']",2.97K,No info
+74,Tainy,"['Bad Bunny', 'Julieta Venegas', 'J Balvin', 'J Balvin']",2.16M,"1,764,096,917 views"
+75,Tiago PZK,"['Trueno', 'Trueno', 'LIT killah', 'Maria Becerra', 'Nicki Nicole', 'Lit Killah']",3.95M,"1,459,757,507 views"
+76,Ovy On The Drums,"['Myke Towers', 'Blessd']",1.08M,"643,756,337 views"
+77,Sean Paul,"['J Balvin', 'J Balvin', 'J Balvin']",4.35M,"2,766,978,108 views"
+78,DJ Luian,"['Mambo Kingz', 'Nicky Jam', 'Darell', 'Anuel AA', 'Nicky Jam', 'Darell', 'Anuel AA', 'Mambo Kingz', 'Ozuna', 'Mambo Kingz']",525K,No info
+79,Marc Anthony,"['Will Smith', 'Bad Bunny']",6.66M,"6,064,079,948 views"
+80,Piso 21,['Micro TDH'],7.56M,"6,636,115,867 views"
+81,DJ Snake,"['J Balvin', 'Tyga', 'J Balvin', 'Tyga']",23.8M,"7,966,352,684 views"
+82,ChocQuibTown,"['Becky G', 'Farruko', 'Zion & Lennox']",1.15M,"789,754,340 views"
+83,Trumpmoney,"['andres yuma', 'Vadi']",111K,No info
+84,Almighty,['Luar La L'],3.1M,"693,775,865 views"
+85,Randy,"['De La Ghetto', 'Cazzu']",884K,No info
+86,Abhir Hathi,['EL IMA'],15.2K,No info
+87,Prince Royce,['Maria Becerra'],10M,"5,858,140,006 views"
+88,Ñejo,"['Ryan Castro', 'Andy Rivera']",2.51M,No info
+89,Rei,"['Quevedo', 'BANDIDO', 'Duki']",873K,No info
+90,Rusherking,['Dread Mar I'],2.11M,No info
+91,Tokischa,"['Anuel AA', 'Ñengo Flow']",1.43M,"291,719,213 views"
+92,Travis Scott,['ROSALÍA'],16.3M,"7,494,457,876 views"
+93,Pedro Capó,['Camilo'],6.77M,"3,376,066,064 views"
+94,Karol G,['Anuel AA'],28.8M,"15,399,667,447 views"
+95,El Alfa,"['Darell', 'Noriel']",8.56M,"4,141,497,433 views"
+96,Sky Rompiendo,"['Myke Towers', 'Rauw Alejandro']",359K,"178,378,222 views"
+97,Luis Fonsi,"['Rauw Alejandro', 'Demi Lovato', 'Ozuna']",31.2M,"14,738,750,907 views"
+98,Chino & Nacho,"['Chyno Miranda', 'Nacho']",4.8M,"4,166,858,655 views"
+99,CNCO,['Natti Natasha'],11.9M,"7,031,329,752 views"
+100,Reik,"['Morat', 'Maluma', 'Maluma']",9.58M,"7,792,732,796 views"
+101,Evaluna Montaner,['Camilo'],3.72M,"625,344,977 views"
+102,Carlos Vives,['Sebastián Yatra'],5.71M,"5,144,289,365 views"
 103,Sebastián Yatra,"['Mau y Ricky', 'Mau y Ricky']",17.7M,No info
-104,Chacal,['Lenier'],441K,"263,409,677 views"
-105,Kim Loaiza,['Ovy On The Drums'],14.3M,"1,297,206,987 views"
-106,Tiësto,['KAROL G'],6.33M,"3,160,323,844 views"
-107,Skrillex,['J Balvin'],20M,"6,411,841,314 views"
-108,Sech,['Daddy Yankee'],9.73M,"5,526,299,648 views"
-109,Descemer Bueno,['Andra'],135K,"86,729,544 views"
-110,Kendo Kaponi,"['Farruko', 'Anuel AA']",1.33M,"341,175,099 views"
+104,Chacal,['Lenier'],442K,"263,625,711 views"
+105,Kim Loaiza,['Ovy On The Drums'],14.3M,"1,298,599,461 views"
+106,Tiësto,['KAROL G'],6.33M,"3,161,870,616 views"
+107,Skrillex,['J Balvin'],20M,"6,412,709,854 views"
+108,Sech,['Daddy Yankee'],9.73M,"5,527,541,049 views"
+109,Descemer Bueno,['Andra'],135K,"86,747,284 views"
+110,Kendo Kaponi,"['Farruko', 'Anuel AA']",1.33M,"341,309,330 views"
 111,El Kamel,['Juaco'],108K,No info
 112,Boy Wonder CF,"['Bryant Myers', 'Baby Rasta', 'Cosculluela']",18.8K,No info
-113,KHEA,"['Eladio Carrion', 'Noriel', 'Eladio Carrion', 'Noriel']",4.84M,"1,635,950,156 views"
-114,Chyno Miranda,['J Balvin'],807K,"290,436,087 views"
+113,KHEA,"['Eladio Carrion', 'Noriel', 'Eladio Carrion', 'Noriel']",4.84M,"1,636,593,242 views"
+114,Chyno Miranda,['J Balvin'],807K,"290,470,438 views"
 115,Pacho El Antifeka,['Daddy Yankee'],318K,No info
 116,Santana The Golden Boy,"['Amenazzy', 'Noriel']",6.83K,No info
 117,Silvestre Dangond,['Natti Natasha'],5.66M,No info
 118,Greeicy,['Anitta'],5.55M,No info
-119,Lalo Ebratt,['Trapical'],918K,"495,839,207 views"
-120,Plan B,['Justin Quiles'],5.57M,"3,828,208,568 views"
-121,Omar Montes,[],755K,"463,252,549 views"
-122,Duki,[],6.59M,"2,580,638,282 views"
-123,Sangiovanni,[],679K,"375,064,512 views"
-124,Ana Mena,[],978K,"504,942,121 views"
-125,Baby Rasta,[],561,No info
-126,Jowell & Randy,[],2.71M,"1,357,899,645 views"
-127,Yailin la Mas Viral,[],357K,"19,400,406 views"
-128,Ptazeta,[],381K,No info
-129,Maldy,[],169K,"74,281,267 views"
-130,Andy Rivera,[],3.15M,"1,454,083,036 views"
-131,Bad Gyal,[],793K,"475,086,326 views"
+119,Lalo Ebratt,['Trapical'],918K,"495,915,934 views"
+120,Plan B,['Justin Quiles'],5.57M,"3,829,650,060 views"
+121,Omar Montes,"['Farruko', 'Jairo deRemache', 'C. Tangana', 'Israel Fernández']",756K,"463,718,041 views"
+122,Duki,"['Quevedo', 'Bizarrap', 'Bizarrap', 'RVFV', 'Rei']",6.59M,"2,581,971,448 views"
+123,Sangiovanni,['Aitana'],679K,"375,300,338 views"
+124,Ana Mena,"['Belinda', 'Belinda', 'Abraham Mateo']",978K,"505,295,256 views"
+125,Baby Rasta,"['Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Boy Wonder CF']",565,No info
+126,Jowell & Randy,"['Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Wisin', 'Wisin', 'Wisin', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'J Balvin']",2.71M,"1,359,432,677 views"
+127,Yailin la Mas Viral,"['Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA']",357K,"19,410,046 views"
+128,Ptazeta,"['Emilia', 'Emilia', 'Emilia']",381K,No info
+129,Maldy,"['KAROL G', 'KAROL G', 'KAROL G', 'KAROL G', 'KAROL G', 'KAROL G', 'KAROL G', 'KAROL G']",169K,"74,289,157 views"
+130,Andy Rivera,"['India Martínez', 'Ñejo']",3.15M,"1,454,726,951 views"
+131,Bad Gyal,['Quevedo'],793K,"475,330,912 views"
 132,Farruquito,[],,
-133,Selena Gomez,[],32M,"12,075,847,782 views"
-134,Lyanno,[],1M,No info
-135,Brray,[],201K,No info
-136,Polima Westcoast,[],806K,"466,603,551 views"
-137,MVSIS,[],66,No info
-138,Bryant Myers,[],8.29M,"3,235,131,267 views"
-139,Niña Pastori,[],376K,No info
-140,RedOne,[],1.31M,"333,773,912 views"
-141,Ecko,[],750,No info
-142,María Artés Lamorena,[],126K,No info
-143,Foreign Teck,[],186K,No info
-144,Myriam Fares,[],2.06M,No info
-145,FIFA Sound,[],772,No info
-146,El Jhota,[],139K,No info
-147,Los del Control,[],3.82K,No info
-148,TALE$,[],23.9K,No info
-149,Bebe Rexha,[],9.16M,"3,753,656,348 views"
-150,Romeo Santos,[],20.1M,"15,828,341,028 views"
-151,Estopa,[],646K,"734,193,382 views"
-152,Cruz Cafuné,[],144K,No info
-153,Juseph,[],35.5K,No info
-154,Robin Schulz,[],3.6M,"3,663,087,431 views"
-155,Daddy Yankee,[],37.4M,"21,465,463,283 views"
-156,Pepe : Vizio,[],45.4K,No info
-157,Delaossa,[],59.1K,No info
-158,Chris Jedi,[],2.63M,"1,818,816,042 views"
-159,Gaby Music,[],429,No info
-160,Stars Music Chile,[],38.2K,No info
-161,Rapeton Approved,[],131,No info
-162,Harry Nach,[],552K,No info
-163,Darell,[],3.11M,"1,187,303,625 views"
-164,Pablo Pesadilla,[],146K,No info
-165,Nickoog Clk,[],353K,No info
-166,Pailita,[],794K,No info
-167,Chencho Corleone,[],748K,"223,769,533 views"
-168,Adam Levine,[],89.6K,"44,368,845 views"
-169,Ñengo Flow,[],4.23M,"1,314,391,153 views"
-170,Jhay Cortez,[],4.75M,"3,734,531,791 views"
-171,DJ Nelson,[],1.3M,"904,619,997 views"
-172,Jay Wheeler,[],4.81M,"2,759,049,844 views"
-173,Natan & Shander,[],24.7K,No info
-174,Totoy El Frio,[],65K,"17,026,562 views"
-175,Mr. NaisGai,[],555,No info
-176,Justin Quiles,[],4.51M,"3,803,268,245 views"
-177,Paulo Londra,[],22.1M,No info
-178,"Rich Music, Ltd",[],,
-179,Alejo,[],14.8K,No info
-180,Boza,[],,
-181,Juhn,[],1.27M,No info
-182,Randy Nota Loca,[],195K,No info
-183,Zion,[],,
-184,Vf7,[],19.6K,No info
-185,Álvaro Díaz,[],333K,No info
-186,Julieta Venegas,[],1.42M,"1,134,309,795 views"
-187,Amenazzy,[],3.42M,"1,208,227,945 views"
-188,Don Omar,[],9.74M,"8,414,735,615 views"
-189,Mambo Kingz,[],137K,No info
-190,Will Smith,[],104K,"141,897,351 views"
-191,Thalía,[],7.3M,"5,274,667,497 views"
-192,Micro TDH,[],3.72M,"1,470,447,543 views"
-193,Tyga,[],11.2M,"5,422,085,514 views"
-194,Rvssian,[],28.2K,"76,797,214 views"
-195,Mau y Ricky,[],4.15M,"2,625,014,929 views"
-196,TINI,[],7.96M,"3,861,928,308 views"
-197,Anitta,[],16.9M,"6,925,850,592 views"
-198,andres yuma,[],0,No info
-199,Vadi,[],,
-200,Luar La L,[],500K,No info
-201,Cazzu,[],5.28M,"1,839,918,985 views"
-202,EL IMA,[],6.41K,No info
-203,Dread Mar I,[],5.29M,No info
-204,LIT killah,[],5.62M,No info
-205,Nicki Nicole,[],4.29M,"1,015,138,608 views"
-206,Camilo,[],15.6M,"6,362,328,757 views"
-207,Dua Lipa,[],21.3M,"10,459,880,531 views"
-208,Noriel,[],5.03M,"1,712,150,842 views"
-209,Jennifer Lopez,[],15.9M,"9,789,937,390 views"
-210,YAVIAH,[],33.2K,No info
-211,Nacho,[],5.73M,"2,891,482,475 views"
-212,Simone & Simaria,[],11.4M,"4,621,874,619 views"
-213,Juice WRLD,[],10.6M,"5,254,011,026 views"
-214,Zumbi,[],,
-215,Morat,[],6.56M,"4,681,551,216 views"
-216,Flow La Movie,[],5.96K,No info
-217,Casper Magico,[],55.8K,No info
-218,Black Eyed Peas,[],11.8M,"10,023,902,635 views"
-219,GIMS,[],10.8M,"5,998,546,295 views"
-220,KEVVO,[],382K,"165,642,478 views"
-221,Demi Lovato,[],17.8M,"6,660,099,909 views"
-222,Enrique Iglesias,[],23.3M,"16,885,403,963 views"
-223,Mariah Angeliq ,[],1.12M,No info
-224,Lenier,[],19.7K,No info
-225,Bomba Estéreo,[],1.87M,"1,057,427,057 views"
-226,Lit Killah,[],5.62M,No info
-227,BANDIDO,[],,
-228,Farina,[],2.53M,"739,318,598 views"
-229,Andra,[],1.89M,"1,863,789,751 views"
-230,Juaco,[],56,No info
-231,Cosculluela,[],7.06M,"2,928,654,234 views"
-232,Eladio Carrion,[],3.2M,"1,767,513,893 views"
-233,Alex Sensation,[],1.46M,"1,029,763,675 views"
-234,Trapical,[],35.4K,No info
-235,Pitbull,[],16M,"11,868,607,371 views"
+133,Rema,"['Selena Gomez', 'Omar Montes']",2.55M,"762,615,291 views"
+134,Lyanno,"['Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro']",1M,No info
+135,Brray,"['Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro']",201K,No info
+136,Polima Westcoast,"['Quevedo', 'Quevedo', 'Fran C.', 'Fran C.', 'Fran C.', 'De La Ghetto', 'De La Ghetto']",806K,"467,549,484 views"
+137,MVSIS,['Anuel AA'],68,No info
+138,Bryant Myers,"['Anuel AA', 'Boy Wonder CF']",8.29M,"3,237,407,605 views"
+139,Niña Pastori,['Sergio Ramos'],376K,No info
+140,RedOne,['Sergio Ramos'],1.31M,"333,865,311 views"
+141,Pablo Chill-E,"['JC Reyes', 'JC Reyes']",991K,No info
+142,Ecko,"['JC Reyes', 'JC Reyes']",756,No info
+143,María Artés Lamorena,['Galvan Real'],126K,No info
+144,Foreign Teck,['Anuel AA'],186K,No info
+145,Myriam Fares,['Nicki Minaj'],2.06M,No info
+146,FIFA Sound,['Nicki Minaj'],815,No info
+147,El Jhota,['Cano'],139K,No info
+148,Los del Control,['Cano'],3.82K,No info
+149,TALE$,['Kidd Keo'],23.9K,No info
+150,Bebe Rexha,['David Guetta'],9.16M,"3,754,485,229 views"
+151,Romeo Santos,"['ROSALÍA', 'ROSALÍA', 'ROSALÍA', 'Aventura', 'Aventura']",20.1M,"15,834,803,773 views"
+152,Estopa,['Beret'],647K,"734,549,820 views"
+153,Cruz Cafuné,['Wiso Rivera'],144K,No info
+154,Juseph,['Wiso Rivera'],35.6K,No info
+155,Original Elias,['Alain Pérez'],164K,No info
+156,Big Lois,['Alain Pérez'],35.5K,No info
+157,Robin Schulz,['Oliver Tree'],3.6M,"3,664,164,075 views"
+158,Daddy Yankee,"['Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'KAROL G', 'KAROL G', 'KAROL G', 'KAROL G', 'Myke Towers', 'Myke Towers', 'Myke Towers', 'Myke Towers', 'Natti Natasha', 'Wisin & Yandel', 'Wisin & Yandel', 'Wisin & Yandel', 'Wisin & Yandel', 'Wisin & Yandel', 'Ozuna', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Lunay', 'Lunay', 'Lunay', 'Lunay', 'Lunay', 'Lunay', 'J Balvin', 'J Balvin', 'Sech', 'Pacho El Antifeka']",37.4M,"21,471,227,425 views"
+159,Pepe : Vizio,['Kiddo'],45.5K,No info
+160,Delaossa,['Kiddo'],59.1K,No info
+161,Chris Jedi,"['Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA']",2.63M,"1,819,662,128 views"
+162,Gaby Music,"['Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA']",431,No info
+163,Rapeton Approved,['Xyron'],131,No info
+164,Aqua VS,['Tom Fomt'],12.1K,No info
+165,Harry Nach,['Tom Fomt'],553K,No info
+166,Darell,"['Anuel AA', 'Anuel AA', 'Blessd', 'Blessd', 'Blessd', 'Brytiago', 'DJ Luian', 'DJ Luian', 'El Alfa']",3.11M,"1,187,850,378 views"
+167,Pablo Pesadilla,"['Fran C.', 'Fran C.', 'Fran C.']",146K,No info
+168,Nickoog Clk,"['Fran C.', 'Fran C.', 'Fran C.']",354K,No info
+169,Pailita,"['De La Ghetto', 'De La Ghetto']",796K,No info
+170,Stars Music Chile,['Standly'],38.2K,No info
+171,Chencho Corleone,"['Farruko', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Rauw Alejandro', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Maluma', 'Maluma', 'Maluma', 'Maluma', 'Maluma', 'Maluma', 'J Balvin']",748K,"223,982,963 views"
+172,Adam Levine,['The Rudeboyz'],89.6K,"44,444,751 views"
+173,Ñengo Flow,"['Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Anuel AA', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Tokischa']",4.23M,"1,314,925,303 views"
+174,Jhay Cortez,"['Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny', 'Bad Bunny']",4.75M,"3,735,969,578 views"
+175,DJ Nelson,['Myke Towers'],1.3M,"905,191,757 views"
+176,Jay Wheeler,['Myke Towers'],4.81M,"2,760,738,417 views"
+177,Natan & Shander,"['Crissin', 'Crissin']",24.7K,No info
+178,Totoy El Frio,"['Crissin', 'Crissin']",65K,"17,040,400 views"
+179,Mr. NaisGai,['Rauw Alejandro'],553,No info
+180,Justin Quiles,"['Farruko', 'Farruko', 'Lenny Tavárez', 'Lenny Tavárez', 'Lenny Tavárez', 'Lenny Tavárez', 'Lenny Tavárez', 'Nicky Jam', 'Feid', 'Plan B']",4.52M,"3,804,289,578 views"
+181,Paulo Londra,"['Becky G', 'Becky G']",22.2M,No info
+182,"Rich Music, Ltd",[],,
+183,Alejo,"['Robi', 'Robi', 'Robi']",14.9K,No info
+184,Boza,[],,
+185,Juhn,"['Myke Towers', 'Lunay', 'Lunay']",1.27M,No info
+186,Randy Nota Loca,['Anuel AA'],195K,No info
+187,Zion,"['Anuel AA', 'J Balvin', 'J Balvin', 'J Balvin', 'ChocQuibTown']",3.39M,"2,803,722,273 views"
+188,Vf7,['Young Miko'],19.6K,No info
+189,Álvaro Díaz,"['Rauw Alejandro', 'Rauw Alejandro']",334K,No info
+190,Julieta Venegas,['Tainy'],1.42M,"1,134,892,144 views"
+191,Amenazzy,"['Farruko', 'Farruko', 'Farruko', 'Santana The Golden Boy']",3.42M,"1,209,091,903 views"
+192,Don Omar,['Farruko'],9.74M,"8,417,743,903 views"
+193,Mambo Kingz,"['DJ Luian', 'DJ Luian', 'DJ Luian']",137K,No info
+194,Will Smith,['Marc Anthony'],104K,"142,010,713 views"
+195,Thalía,"['Natti Natasha', 'Natti Natasha', 'Natti Natasha']",7.3M,"5,276,079,212 views"
+196,Micro TDH,['Piso 21'],3.72M,"1,471,067,346 views"
+197,Tyga,"['DJ Snake', 'DJ Snake']",11.2M,"5,423,595,008 views"
+198,Rvssian,"['Farruko', 'Farruko', 'Anuel AA']",28.2K,"76,866,890 views"
+199,Mau y Ricky,"['Manuel Turizo', 'Manuel Turizo', 'Nicky Jam', 'Sebastián Yatra', 'Sebastián Yatra']",4.15M,"2,625,825,328 views"
+200,TINI,['Becky G'],7.97M,"3,864,039,867 views"
+201,Anitta,"['Becky G', 'Greeicy']",17M,"6,927,931,419 views"
+202,andres yuma,['Trumpmoney'],0,No info
+203,Vadi,[],,
+204,Luar La L,['Almighty'],503K,No info
+205,Cazzu,['Randy'],5.28M,"1,840,878,571 views"
+206,EL IMA,['Abhir Hathi'],6.4K,No info
+207,Dread Mar I,['Rusherking'],5.29M,No info
+208,LIT killah,['Tiago PZK'],5.63M,No info
+209,Nicki Nicole,['Tiago PZK'],4.29M,"1,015,488,269 views"
+210,Camilo,"['Shakira', 'Manuel Turizo', 'Manuel Turizo', 'Ozuna', 'Pedro Capó', 'Evaluna Montaner']",15.6M,"6,364,238,747 views"
+211,Dua Lipa,['Bad Bunny'],21.3M,"10,464,642,076 views"
+212,Noriel,"['El Alfa', 'KHEA', 'KHEA', 'Santana The Golden Boy']",5.03M,"1,712,772,714 views"
+213,Jennifer Lopez,"['Maluma', 'Bad Bunny']",15.9M,"9,791,852,280 views"
+214,YAVIAH,['Bad Bunny'],33.3K,No info
+215,Nacho,"['Chino & Nacho', 'Nacho']",5.73M,"2,892,018,001 views"
+216,Simone & Simaria,['KAROL G'],11.4M,"4,622,826,199 views"
+217,Juice WRLD,['Anuel AA'],10.6M,"5,257,022,782 views"
+218,Zumbi,[],,
+219,Morat,['Reik'],6.57M,"4,684,789,279 views"
+220,Flow La Movie,['Nio Garcia'],5.95K,No info
+221,Casper Magico,['Nio Garcia'],55.7K,No info
+222,Black Eyed Peas,['J Balvin'],11.8M,"10,026,990,523 views"
+223,GIMS,"['Maluma', 'Maluma']",10.8M,"6,000,073,615 views"
+224,KEVVO,['Farruko'],382K,"165,727,670 views"
+225,Demi Lovato,['Luis Fonsi'],17.8M,"6,660,881,875 views"
+226,Enrique Iglesias,['Nicky Jam'],23.3M,"16,889,210,567 views"
+227,Mariah Angeliq ,['KAROL G'],1.13M,No info
+228,Lenier,['Chacal'],19.7K,No info
+229,Bomba Estéreo,['Bad Bunny'],1.87M,"1,057,635,322 views"
+230,Lit Killah,['Tiago PZK'],5.63M,No info
+231,BANDIDO,[],,
+232,Farina,['Maluma'],2.53M,"739,540,169 views"
+233,Andra,['Descemer Bueno'],1.89M,"1,864,104,521 views"
+234,Juaco,['El Kamel'],56,No info
+235,Cosculluela,['Boy Wonder CF'],7.07M,"2,929,755,690 views"
+236,Eladio Carrion,"['KHEA', 'KHEA']",3.21M,"1,769,255,324 views"
+237,Alex Sensation,['Nicky Jam'],1.46M,"1,030,009,978 views"
+238,Trapical,['Lalo Ebratt'],35.4K,No info
+239,Pitbull,['Natti Natasha'],16M,"11,871,920,710 views"
